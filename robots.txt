@@ -1,0 +1,6 @@
+User-agent: *
+Allow: /
+Disallow: /cart.html
+Disallow: /checkout.html
+
+Sitemap: https://shop.wunderland.gg/sitemap.xml

@@ -1,0 +1,20 @@
+{
+ "name": "Wunderland Records Store",
+ "short_name": "WL Store",
+ "start_url": "/",
+ "display": "standalone",
+ "background_color": "#fafaf8",
+ "theme_color": "#1c1c1c",
+ "icons": [
+  {
+   "src": "/assets/favicon.png",
+   "sizes": "256x256",
+   "type": "image/png"
+  },
+  {
+   "src": "/assets/favicon.svg",
+   "type": "image/svg+xml",
+   "sizes": "any"
+  }
+ ]
+}
