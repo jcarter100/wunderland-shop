@@ -26,8 +26,8 @@
       "image": "assets/vectors/nova-radiant-lp.svg",
       "name": "RADIANT — 2×LP Black Vinyl",
       "featured": true,
-      "stripePaymentLink": "https://buy.stripe.com/test_14A00l5N53wY05uaAf2VG01",
-      "stripePriceId": "price_1UM9wYQ6cu4UtZYoNjwNwZbU"
+      "stripePaymentLink": "https://buy.stripe.com/fZu5kFfnF1oQ3hG37N2VG00",
+      "stripePriceId": "price_1UMAXEQ6cu4UtZYocoa9m4P1"
     },
     {
       "id": "nova-radiant-lp-color",
@@ -54,8 +54,8 @@
       "image": "assets/vectors/nova-radiant-lp-color.svg",
       "name": "RADIANT — 2×LP Limited Gold Vinyl",
       "featured": true,
-      "stripePaymentLink": "https://buy.stripe.com/test_fZu5kFfnF1oQ3hG37N2VG00",
-      "stripePriceId": "price_1UM9viQ6cu4UtZYoTUNnW90H"
+      "stripePaymentLink": "https://buy.stripe.com/14A00l5N53wY05uaAf2VG01",
+      "stripePriceId": "price_1UMAXGQ6cu4UtZYonkPKIhTR"
     },
     {
       "id": "nova-radiant-cd",
@@ -80,8 +80,8 @@
       "image": "assets/vectors/nova-radiant-cd.svg",
       "name": "RADIANT — CD · Jewel Case",
       "featured": true,
-      "stripePaymentLink": "https://buy.stripe.com/test_5kQ7sNfnFaZqbOceQv2VG02",
-      "stripePriceId": "price_1UM9waQ6cu4UtZYoqzZsdcEB"
+      "stripePaymentLink": "https://buy.stripe.com/5kQ7sNfnFaZqbOceQv2VG02",
+      "stripePriceId": "price_1UMAXHQ6cu4UtZYoO0K7AGyw"
     },
     {
       "id": "nova-radiant-cassette",
@@ -106,8 +106,8 @@
       "image": "assets/vectors/nova-radiant-cassette.svg",
       "name": "RADIANT — Cassette · Chrome Tape",
       "featured": true,
-      "stripePaymentLink": "https://buy.stripe.com/test_8x2aEZ8ZhaZq7xWgYD2VG03",
-      "stripePriceId": "price_1UM9wcQ6cu4UtZYoNpjy0Wzq"
+      "stripePaymentLink": "https://buy.stripe.com/8x2aEZ8ZhaZq7xWgYD2VG03",
+      "stripePriceId": "price_1UMAXIQ6cu4UtZYo7s54ZmzK"
     },
     {
       "id": "nova-radiant-digital",
@@ -132,8 +132,8 @@
       "image": "assets/vectors/nova-radiant-digital.svg",
       "name": "RADIANT — Digital Album · MP3 / WAV / FLAC",
       "featured": true,
-      "stripePaymentLink": "https://buy.stripe.com/test_aFa14p6R9ffGbOc6jZ2VG04",
-      "stripePriceId": "price_1UM9weQ6cu4UtZYoJOxGiptL"
+      "stripePaymentLink": "https://buy.stripe.com/aFa14p6R9ffGbOc6jZ2VG04",
+      "stripePriceId": "price_1UMAXJQ6cu4UtZYojRpcxg7T"
     },
     {
       "id": "vyserion-serpent-frequency-lp",
@@ -153,8 +153,8 @@
       "image": "assets/vectors/vyserion-serpent-frequency-lp.svg",
       "name": "SERPENT FREQUENCY — LP · Black Vinyl",
       "featured": false,
-      "stripePaymentLink": "https://buy.stripe.com/test_9B600l6R9ffG9G47o32VG05",
-      "stripePriceId": "price_1UM9wgQ6cu4UtZYoYi1nQSme"
+      "stripePaymentLink": "https://buy.stripe.com/9B600l6R9ffG9G47o32VG05",
+      "stripePriceId": "price_1UMAXLQ6cu4UtZYo57UFNkMu"
     },
     {
       "id": "vyserion-serpent-frequency-cd",
@@ -174,8 +174,8 @@
       "image": "assets/vectors/vyserion-serpent-frequency-cd.svg",
       "name": "SERPENT FREQUENCY — CD · Jewel Case",
       "featured": false,
-      "stripePaymentLink": "https://buy.stripe.com/test_cNibJ30sL5F6aK8fUz2VG06",
-      "stripePriceId": "price_1UM9wiQ6cu4UtZYo24oFogxt"
+      "stripePaymentLink": "https://buy.stripe.com/cNibJ30sL5F6aK8fUz2VG06",
+      "stripePriceId": "price_1UMAXMQ6cu4UtZYoc1r5XN7b"
     },
     {
       "id": "vyserion-serpent-frequency-cassette",
@@ -195,8 +195,8 @@
       "image": "assets/vectors/vyserion-serpent-frequency-cassette.svg",
       "name": "SERPENT FREQUENCY — Cassette · Chrome Tape",
       "featured": false,
-      "stripePaymentLink": "https://buy.stripe.com/test_cNi3cxcbt1oQ05u7o32VG07",
-      "stripePriceId": "price_1UM9wkQ6cu4UtZYo9iylIHvX"
+      "stripePaymentLink": "https://buy.stripe.com/cNi3cxcbt1oQ05u7o32VG07",
+      "stripePriceId": "price_1UMAXNQ6cu4UtZYot43sWYzG"
     },
     {
       "id": "vyserion-serpent-frequency-digital",
@@ -216,8 +216,8 @@
       "image": "assets/vectors/vyserion-serpent-frequency-digital.svg",
       "name": "SERPENT FREQUENCY — Digital Album · MP3 / WAV / FLAC",
       "featured": false,
-      "stripePaymentLink": "https://buy.stripe.com/test_dRm7sNejB0kMdWk9wb2VG08",
-      "stripePriceId": "price_1UM9wmQ6cu4UtZYoiDI8PNxi"
+      "stripePaymentLink": "https://buy.stripe.com/dRm7sNejB0kMdWk9wb2VG08",
+      "stripePriceId": "price_1UMAXPQ6cu4UtZYoivI3TgA0"
     },
     {
       "id": "vyserion-obsidian-7in",
@@ -237,8 +237,8 @@
       "image": "assets/vectors/vyserion-obsidian-7in.svg",
       "name": "OBSIDIAN — 7\" Single · Black Vinyl",
       "featured": false,
-      "stripePaymentLink": "https://buy.stripe.com/test_cNidRb8Zh5F6cSg23J2VG09",
-      "stripePriceId": "price_1UM9woQ6cu4UtZYosi1TtOPM"
+      "stripePaymentLink": "https://buy.stripe.com/cNidRb8Zh5F6cSg23J2VG09",
+      "stripePriceId": "price_1UMAXQQ6cu4UtZYoLt8RaNKi"
     },
     {
       "id": "vyserion-obsidian-digital",
@@ -258,8 +258,8 @@
       "image": "assets/vectors/vyserion-obsidian-digital.svg",
       "name": "OBSIDIAN — Digital Single · MP3 / WAV / FLAC",
       "featured": false,
-      "stripePaymentLink": "https://buy.stripe.com/test_9B6eVfejB0kMaK8bEj2VG0a",
-      "stripePriceId": "price_1UM9wqQ6cu4UtZYoznphMjMd"
+      "stripePaymentLink": "https://buy.stripe.com/9B6eVfejB0kMaK8bEj2VG0a",
+      "stripePriceId": "price_1UMAXRQ6cu4UtZYo9ObJr9V6"
     },
     {
       "id": "vyserion-voidwalker-ep-12in",
@@ -279,8 +279,8 @@
       "image": "assets/vectors/vyserion-voidwalker-ep-12in.svg",
       "name": "VOIDWALKER EP — 12\" EP · Black Vinyl",
       "featured": false,
-      "stripePaymentLink": "https://buy.stripe.com/test_dRmcN70sL7Ne2dCfUz2VG0b",
-      "stripePriceId": "price_1UM9wsQ6cu4UtZYoF4JcHw9v"
+      "stripePaymentLink": "https://buy.stripe.com/dRmcN70sL7Ne2dCfUz2VG0b",
+      "stripePriceId": "price_1UMAXTQ6cu4UtZYo4XZ7j5gZ"
     },
     {
       "id": "vyserion-voidwalker-ep-cassette",
@@ -300,8 +300,8 @@
       "image": "assets/vectors/vyserion-voidwalker-ep-cassette.svg",
       "name": "VOIDWALKER EP — Cassette EP",
       "featured": false,
-      "stripePaymentLink": "https://buy.stripe.com/test_3cI5kF3EXc3udWkeQv2VG0c",
-      "stripePriceId": "price_1UM9wuQ6cu4UtZYoThERYgr1"
+      "stripePaymentLink": "https://buy.stripe.com/3cI5kF3EXc3udWkeQv2VG0c",
+      "stripePriceId": "price_1UMAXUQ6cu4UtZYoTyaV7WAq"
     },
     {
       "id": "vyserion-voidwalker-ep-digital",
@@ -321,8 +321,8 @@
       "image": "assets/vectors/vyserion-voidwalker-ep-digital.svg",
       "name": "VOIDWALKER EP — Digital EP · MP3 / WAV / FLAC",
       "featured": false,
-      "stripePaymentLink": "https://buy.stripe.com/test_eVq3cx7Vdc3uf0o6jZ2VG0d",
-      "stripePriceId": "price_1UM9wwQ6cu4UtZYom5Li51Pc"
+      "stripePaymentLink": "https://buy.stripe.com/eVq3cx7Vdc3uf0o6jZ2VG0d",
+      "stripePriceId": "price_1UMAXVQ6cu4UtZYoFZagk1DN"
     },
     {
       "id": "vyserion-eclipse-protocol-lp",
@@ -342,8 +342,8 @@
       "image": "assets/vectors/vyserion-eclipse-protocol-lp.svg",
       "name": "ECLIPSE PROTOCOL — LP · Black Vinyl",
       "featured": false,
-      "stripePaymentLink": "https://buy.stripe.com/test_00w7sNcbtd7y9G4bEj2VG0e",
-      "stripePriceId": "price_1UM9wyQ6cu4UtZYog54jCDy7"
+      "stripePaymentLink": "https://buy.stripe.com/00w7sNcbtd7y9G4bEj2VG0e",
+      "stripePriceId": "price_1UMAXXQ6cu4UtZYomFfFa6tU"
     },
     {
       "id": "vyserion-eclipse-protocol-lp-color",
@@ -365,8 +365,8 @@
       "image": "assets/vectors/vyserion-eclipse-protocol-lp-color.svg",
       "name": "ECLIPSE PROTOCOL — LP · Limited Eclipse Purple Vinyl",
       "featured": false,
-      "stripePaymentLink": "https://buy.stripe.com/test_28E5kFb7pffG05ueQv2VG0f",
-      "stripePriceId": "price_1UM9x0Q6cu4UtZYo2Ld8nM5D"
+      "stripePaymentLink": "https://buy.stripe.com/28E5kFb7pffG05ueQv2VG0f",
+      "stripePriceId": "price_1UMAXYQ6cu4UtZYowzFcK7w9"
     },
     {
       "id": "vyserion-eclipse-protocol-cd",
@@ -386,8 +386,8 @@
       "image": "assets/vectors/vyserion-eclipse-protocol-cd.svg",
       "name": "ECLIPSE PROTOCOL — CD · Jewel Case",
       "featured": false,
-      "stripePaymentLink": "https://buy.stripe.com/test_9B6fZjfnF2sUg4s0ZF2VG0g",
-      "stripePriceId": "price_1UM9x2Q6cu4UtZYoM1UgC8N8"
+      "stripePaymentLink": "https://buy.stripe.com/9B6fZjfnF2sUg4s0ZF2VG0g",
+      "stripePriceId": "price_1UMAXZQ6cu4UtZYoGnoqVYDa"
     },
     {
       "id": "vyserion-eclipse-protocol-cassette",
@@ -407,8 +407,8 @@
       "image": "assets/vectors/vyserion-eclipse-protocol-cassette.svg",
       "name": "ECLIPSE PROTOCOL — Cassette · Chrome Tape",
       "featured": false,
-      "stripePaymentLink": "https://buy.stripe.com/test_14A3cxb7pgjK8C09wb2VG0h",
-      "stripePriceId": "price_1UM9x4Q6cu4UtZYoNWRC0l1O"
+      "stripePaymentLink": "https://buy.stripe.com/14A3cxb7pgjK8C09wb2VG0h",
+      "stripePriceId": "price_1UMAXaQ6cu4UtZYoVuj7BuWB"
     },
     {
       "id": "vyserion-eclipse-protocol-digital",
@@ -428,8 +428,8 @@
       "image": "assets/vectors/vyserion-eclipse-protocol-digital.svg",
       "name": "ECLIPSE PROTOCOL — Digital Album · MP3 / WAV / FLAC",
       "featured": false,
-      "stripePaymentLink": "https://buy.stripe.com/test_5kQ5kFfnF2sU6tSfUz2VG0i",
-      "stripePriceId": "price_1UM9x6Q6cu4UtZYomeNbLGKj"
+      "stripePaymentLink": "https://buy.stripe.com/5kQ5kFfnF2sU6tSfUz2VG0i",
+      "stripePriceId": "price_1UMAXcQ6cu4UtZYoa7hEu03q"
     },
     {
       "id": "bento-culture-box-lp",
@@ -449,8 +449,8 @@
       "image": "assets/vectors/bento-culture-box-lp.svg",
       "name": "CULTURE BOX — LP · Black Vinyl",
       "featured": false,
-      "stripePaymentLink": "https://buy.stripe.com/test_4gM8wR2AT8RicSg23J2VG0j",
-      "stripePriceId": "price_1UM9x8Q6cu4UtZYo4XJkjNT4"
+      "stripePaymentLink": "https://buy.stripe.com/4gM8wR2AT8RicSg23J2VG0j",
+      "stripePriceId": "price_1UMAXdQ6cu4UtZYoQZqfLDKZ"
     },
     {
       "id": "bento-culture-box-cd",
@@ -470,8 +470,8 @@
       "image": "assets/vectors/bento-culture-box-cd.svg",
       "name": "CULTURE BOX — CD · Jewel Case",
       "featured": false,
-      "stripePaymentLink": "https://buy.stripe.com/test_5kQ28tejB5F69G437N2VG0k",
-      "stripePriceId": "price_1UM9xAQ6cu4UtZYoCxommPic"
+      "stripePaymentLink": "https://buy.stripe.com/5kQ28tejB5F69G437N2VG0k",
+      "stripePriceId": "price_1UMAXeQ6cu4UtZYoq5ruW5Ja"
     },
     {
       "id": "bento-culture-box-cassette",
@@ -491,8 +491,8 @@
       "image": "assets/vectors/bento-culture-box-cassette.svg",
       "name": "CULTURE BOX — Cassette · Chrome Tape",
       "featured": false,
-      "stripePaymentLink": "https://buy.stripe.com/test_cNifZj3EXc3u6tS5fV2VG0l",
-      "stripePriceId": "price_1UM9xCQ6cu4UtZYoemf9VMZm"
+      "stripePaymentLink": "https://buy.stripe.com/cNifZj3EXc3u6tS5fV2VG0l",
+      "stripePriceId": "price_1UMAXfQ6cu4UtZYoH9JJDkC7"
     },
     {
       "id": "bento-culture-box-digital",
@@ -512,8 +512,8 @@
       "image": "assets/vectors/bento-culture-box-digital.svg",
       "name": "CULTURE BOX — Digital Album · MP3 / WAV / FLAC",
       "featured": false,
-      "stripePaymentLink": "https://buy.stripe.com/test_dRm14p7Vdd7y05u4bR2VG0m",
-      "stripePriceId": "price_1UM9xEQ6cu4UtZYoPZRxAxSq"
+      "stripePaymentLink": "https://buy.stripe.com/dRm14p7Vdd7y05u4bR2VG0m",
+      "stripePriceId": "price_1UMAXhQ6cu4UtZYoacqqhUnt"
     },
     {
       "id": "bento-red-season-12in",
@@ -533,8 +533,8 @@
       "image": "assets/vectors/bento-red-season-12in.svg",
       "name": "RED SEASON — 12\" EP · Black Vinyl",
       "featured": false,
-      "stripePaymentLink": "https://buy.stripe.com/test_bJe00lcbt2sU7xWaAf2VG0n",
-      "stripePriceId": "price_1UM9xGQ6cu4UtZYoptJiRBYj"
+      "stripePaymentLink": "https://buy.stripe.com/bJe00lcbt2sU7xWaAf2VG0n",
+      "stripePriceId": "price_1UMAXiQ6cu4UtZYoJCfgDY3k"
     },
     {
       "id": "bento-red-season-cassette",
@@ -554,8 +554,8 @@
       "image": "assets/vectors/bento-red-season-cassette.svg",
       "name": "RED SEASON — Cassette EP",
       "featured": false,
-      "stripePaymentLink": "https://buy.stripe.com/test_6oUfZj3EXc3uf0oaAf2VG0o",
-      "stripePriceId": "price_1UM9xIQ6cu4UtZYouNhx2f07"
+      "stripePaymentLink": "https://buy.stripe.com/6oUfZj3EXc3uf0oaAf2VG0o",
+      "stripePriceId": "price_1UMAXjQ6cu4UtZYo0x7L20ZV"
     },
     {
       "id": "bento-red-season-digital",
@@ -575,8 +575,8 @@
       "image": "assets/vectors/bento-red-season-digital.svg",
       "name": "RED SEASON — Digital EP · MP3 / WAV / FLAC",
       "featured": false,
-      "stripePaymentLink": "https://buy.stripe.com/test_28E6oJb7p5F605udMr2VG0p",
-      "stripePriceId": "price_1UM9xKQ6cu4UtZYoBGVsoVJd"
+      "stripePaymentLink": "https://buy.stripe.com/28E6oJb7p5F605udMr2VG0p",
+      "stripePriceId": "price_1UMAXlQ6cu4UtZYoIxVBzJ56"
     },
     {
       "id": "bento-frequency-of-self-lp",
@@ -596,8 +596,8 @@
       "image": "assets/vectors/bento-frequency-of-self-lp.svg",
       "name": "FREQUENCY OF SELF — LP · Black Vinyl",
       "featured": false,
-      "stripePaymentLink": "https://buy.stripe.com/test_eVq3cx2ATgjKdWk7o32VG0q",
-      "stripePriceId": "price_1UM9xMQ6cu4UtZYoqzJf4EhO"
+      "stripePaymentLink": "https://buy.stripe.com/eVq3cx2ATgjKdWk7o32VG0q",
+      "stripePriceId": "price_1UMAXmQ6cu4UtZYoftikZlXy"
     },
     {
       "id": "bento-frequency-of-self-lp-color",
@@ -619,8 +619,8 @@
       "image": "assets/vectors/bento-frequency-of-self-lp-color.svg",
       "name": "FREQUENCY OF SELF — LP · Limited Red Vinyl",
       "featured": false,
-      "stripePaymentLink": "https://buy.stripe.com/test_9B64gB4J1d7y19y9wb2VG0r",
-      "stripePriceId": "price_1UM9xOQ6cu4UtZYoUz1UcXD6"
+      "stripePaymentLink": "https://buy.stripe.com/9B64gB4J1d7y19y9wb2VG0r",
+      "stripePriceId": "price_1UMAXnQ6cu4UtZYoED6aBC86"
     },
     {
       "id": "bento-frequency-of-self-cd",
@@ -640,8 +640,8 @@
       "image": "assets/vectors/bento-frequency-of-self-cd.svg",
       "name": "FREQUENCY OF SELF — CD · Jewel Case",
       "featured": false,
-      "stripePaymentLink": "https://buy.stripe.com/test_9B6dRbcbt1oQ4lKcIn2VG0s",
-      "stripePriceId": "price_1UM9xQQ6cu4UtZYoeTOaItZJ"
+      "stripePaymentLink": "https://buy.stripe.com/9B6dRbcbt1oQ4lKcIn2VG0s",
+      "stripePriceId": "price_1UMAXoQ6cu4UtZYo3XQgnY6T"
     },
     {
       "id": "bento-frequency-of-self-cassette",
@@ -661,8 +661,8 @@
       "image": "assets/vectors/bento-frequency-of-self-cassette.svg",
       "name": "FREQUENCY OF SELF — Cassette · Chrome Tape",
       "featured": false,
-      "stripePaymentLink": "https://buy.stripe.com/test_28EbJ38Zhc3u05u0ZF2VG0t",
-      "stripePriceId": "price_1UM9xSQ6cu4UtZYolS6rq41g"
+      "stripePaymentLink": "https://buy.stripe.com/28EbJ38Zhc3u05u0ZF2VG0t",
+      "stripePriceId": "price_1UMAXqQ6cu4UtZYo40WcDoyy"
     },
     {
       "id": "bento-frequency-of-self-digital",
@@ -682,8 +682,8 @@
       "image": "assets/vectors/bento-frequency-of-self-digital.svg",
       "name": "FREQUENCY OF SELF — Digital Album · MP3 / WAV / FLAC",
       "featured": false,
-      "stripePaymentLink": "https://buy.stripe.com/test_bJe5kFb7p8Ri2dCgYD2VG0u",
-      "stripePriceId": "price_1UM9xUQ6cu4UtZYoPVEHt7c5"
+      "stripePaymentLink": "https://buy.stripe.com/bJe5kFb7p8Ri2dCgYD2VG0u",
+      "stripePriceId": "price_1UMAXrQ6cu4UtZYoTFBuxy0I"
     },
     {
       "id": "bento-bento-x-novadeck-7in",
@@ -703,8 +703,8 @@
       "image": "assets/vectors/bento-bento-x-novadeck-7in.svg",
       "name": "BENTO x NOVADECK — 7\" Single · Black Vinyl",
       "featured": false,
-      "stripePaymentLink": "https://buy.stripe.com/test_fZu8wR6R93wY19ybEj2VG0v",
-      "stripePriceId": "price_1UM9xWQ6cu4UtZYor36fo5Q6"
+      "stripePaymentLink": "https://buy.stripe.com/fZu8wR6R93wY19ybEj2VG0v",
+      "stripePriceId": "price_1UMAXsQ6cu4UtZYo0FzNI58r"
     },
     {
       "id": "bento-bento-x-novadeck-digital",
@@ -724,8 +724,8 @@
       "image": "assets/vectors/bento-bento-x-novadeck-digital.svg",
       "name": "BENTO x NOVADECK — Digital Single · MP3 / WAV / FLAC",
       "featured": false,
-      "stripePaymentLink": "https://buy.stripe.com/test_8x2eVf3EXd7y7xW7o32VG0w",
-      "stripePriceId": "price_1UM9xYQ6cu4UtZYoJuwkV7qK"
+      "stripePaymentLink": "https://buy.stripe.com/8x2eVf3EXd7y7xW7o32VG0w",
+      "stripePriceId": "price_1UMAXuQ6cu4UtZYoQHjkT2I9"
     },
     {
       "id": "novadeck-star-maps-vol-1-lp",
@@ -745,8 +745,8 @@
       "image": "assets/vectors/novadeck-star-maps-vol-1-lp.svg",
       "name": "STAR MAPS VOL. 1 — LP · Black Vinyl",
       "featured": false,
-      "stripePaymentLink": "https://buy.stripe.com/test_9B614p1wP3wY8C06jZ2VG0x",
-      "stripePriceId": "price_1UM9xaQ6cu4UtZYoUY57f6n0"
+      "stripePaymentLink": "https://buy.stripe.com/9B614p1wP3wY8C06jZ2VG0x",
+      "stripePriceId": "price_1UMAXvQ6cu4UtZYowbzZMkiU"
     },
     {
       "id": "novadeck-star-maps-vol-1-cd",
@@ -766,8 +766,8 @@
       "image": "assets/vectors/novadeck-star-maps-vol-1-cd.svg",
       "name": "STAR MAPS VOL. 1 — CD · Jewel Case",
       "featured": false,
-      "stripePaymentLink": "https://buy.stripe.com/test_fZu3cx5N55F605ugYD2VG0y",
-      "stripePriceId": "price_1UM9xcQ6cu4UtZYoXtuVRW1n"
+      "stripePaymentLink": "https://buy.stripe.com/fZu3cx5N55F605ugYD2VG0y",
+      "stripePriceId": "price_1UMAXwQ6cu4UtZYol0T0aWBF"
     },
     {
       "id": "novadeck-star-maps-vol-1-cassette",
@@ -787,8 +787,8 @@
       "image": "assets/vectors/novadeck-star-maps-vol-1-cassette.svg",
       "name": "STAR MAPS VOL. 1 — Cassette · Chrome Tape",
       "featured": false,
-      "stripePaymentLink": "https://buy.stripe.com/test_dRm00lejBd7y4lK8s72VG0z",
-      "stripePriceId": "price_1UM9xdQ6cu4UtZYoNlKZe3oI"
+      "stripePaymentLink": "https://buy.stripe.com/dRm00lejBd7y4lK8s72VG0z",
+      "stripePriceId": "price_1UMAXyQ6cu4UtZYoE3tbs6mu"
     },
     {
       "id": "novadeck-star-maps-vol-1-digital",
@@ -808,8 +808,8 @@
       "image": "assets/vectors/novadeck-star-maps-vol-1-digital.svg",
       "name": "STAR MAPS VOL. 1 — Digital Album · MP3 / WAV / FLAC",
       "featured": false,
-      "stripePaymentLink": "https://buy.stripe.com/test_aFa00l7VdaZq4lKcIn2VG0A",
-      "stripePriceId": "price_1UM9xfQ6cu4UtZYo1mixjsSD"
+      "stripePaymentLink": "https://buy.stripe.com/aFa00l7VdaZq4lKcIn2VG0A",
+      "stripePriceId": "price_1UMAXzQ6cu4UtZYo7KnWKRI4"
     },
     {
       "id": "novadeck-celestial-mechanics-lp",
@@ -829,8 +829,8 @@
       "image": "assets/vectors/novadeck-celestial-mechanics-lp.svg",
       "name": "CELESTIAL MECHANICS — LP · Black Vinyl",
       "featured": false,
-      "stripePaymentLink": "https://buy.stripe.com/test_cNi9AVfnFd7y3hG6jZ2VG0B",
-      "stripePriceId": "price_1UM9xhQ6cu4UtZYoxeqdefqA"
+      "stripePaymentLink": "https://buy.stripe.com/cNi9AVfnFd7y3hG6jZ2VG0B",
+      "stripePriceId": "price_1UMAY0Q6cu4UtZYo8wFgAXh8"
     },
     {
       "id": "novadeck-celestial-mechanics-cd",
@@ -850,8 +850,8 @@
       "image": "assets/vectors/novadeck-celestial-mechanics-cd.svg",
       "name": "CELESTIAL MECHANICS — CD · Jewel Case",
       "featured": false,
-      "stripePaymentLink": "https://buy.stripe.com/test_9B600l4J1ffG8C0eQv2VG0C",
-      "stripePriceId": "price_1UM9xjQ6cu4UtZYoO1s6v7wi"
+      "stripePaymentLink": "https://buy.stripe.com/9B600l4J1ffG8C0eQv2VG0C",
+      "stripePriceId": "price_1UMAY1Q6cu4UtZYoYVKkNLkp"
     },
     {
       "id": "novadeck-celestial-mechanics-cassette",
@@ -871,8 +871,8 @@
       "image": "assets/vectors/novadeck-celestial-mechanics-cassette.svg",
       "name": "CELESTIAL MECHANICS — Cassette · Chrome Tape",
       "featured": false,
-      "stripePaymentLink": "https://buy.stripe.com/test_bJe7sNcbt7NedWkaAf2VG0D",
-      "stripePriceId": "price_1UM9xlQ6cu4UtZYoJK5TRzeX"
+      "stripePaymentLink": "https://buy.stripe.com/bJe7sNcbt7NedWkaAf2VG0D",
+      "stripePriceId": "price_1UMAY3Q6cu4UtZYoVzxjT7G0"
     },
     {
       "id": "novadeck-celestial-mechanics-digital",
@@ -892,8 +892,8 @@
       "image": "assets/vectors/novadeck-celestial-mechanics-digital.svg",
       "name": "CELESTIAL MECHANICS — Digital Album · MP3 / WAV / FLAC",
       "featured": false,
-      "stripePaymentLink": "https://buy.stripe.com/test_9B6bJ33EX4B2dWkcIn2VG0E",
-      "stripePriceId": "price_1UM9xnQ6cu4UtZYopyBs3E5C"
+      "stripePaymentLink": "https://buy.stripe.com/9B6bJ33EX4B2dWkcIn2VG0E",
+      "stripePriceId": "price_1UMAY4Q6cu4UtZYofGYad9Ua"
     },
     {
       "id": "novadeck-star-maps-vol-2-lp",
@@ -913,8 +913,8 @@
       "image": "assets/vectors/novadeck-star-maps-vol-2-lp.svg",
       "name": "STAR MAPS VOL. 2 — LP · Black Vinyl",
       "featured": false,
-      "stripePaymentLink": "https://buy.stripe.com/test_fZudRb2AT7Ne5pO6jZ2VG0F",
-      "stripePriceId": "price_1UM9xpQ6cu4UtZYokRqebFyN"
+      "stripePaymentLink": "https://buy.stripe.com/fZudRb2AT7Ne5pO6jZ2VG0F",
+      "stripePriceId": "price_1UMAY5Q6cu4UtZYoibXDJ09n"
     },
     {
       "id": "novadeck-star-maps-vol-2-lp-color",
@@ -936,8 +936,8 @@
       "image": "assets/vectors/novadeck-star-maps-vol-2-lp-color.svg",
       "name": "STAR MAPS VOL. 2 — LP · Limited Midnight Blue Vinyl",
       "featured": false,
-      "stripePaymentLink": "https://buy.stripe.com/test_eVq14p7Vdd7y7xW6jZ2VG0G",
-      "stripePriceId": "price_1UM9xrQ6cu4UtZYoJ5VZTWDp"
+      "stripePaymentLink": "https://buy.stripe.com/eVq14p7Vdd7y7xW6jZ2VG0G",
+      "stripePriceId": "price_1UMAY6Q6cu4UtZYoumoawuQY"
     },
     {
       "id": "novadeck-star-maps-vol-2-cd",
@@ -957,8 +957,8 @@
       "image": "assets/vectors/novadeck-star-maps-vol-2-cd.svg",
       "name": "STAR MAPS VOL. 2 — CD · Jewel Case",
       "featured": false,
-      "stripePaymentLink": "https://buy.stripe.com/test_3cI3cx7Vd2sUaK8eQv2VG0H",
-      "stripePriceId": "price_1UM9xtQ6cu4UtZYoiVjOvKIL"
+      "stripePaymentLink": "https://buy.stripe.com/3cI3cx7Vd2sUaK8eQv2VG0H",
+      "stripePriceId": "price_1UMAY8Q6cu4UtZYo1cbQT22t"
     },
     {
       "id": "novadeck-star-maps-vol-2-cassette",
@@ -978,8 +978,8 @@
       "image": "assets/vectors/novadeck-star-maps-vol-2-cassette.svg",
       "name": "STAR MAPS VOL. 2 — Cassette · Chrome Tape",
       "featured": false,
-      "stripePaymentLink": "https://buy.stripe.com/test_8x2eVf1wP3wYbOc8s72VG0I",
-      "stripePriceId": "price_1UM9xvQ6cu4UtZYoI2aULYjN"
+      "stripePaymentLink": "https://buy.stripe.com/8x2eVf1wP3wYbOc8s72VG0I",
+      "stripePriceId": "price_1UMAY9Q6cu4UtZYoxLxyHaMv"
     },
     {
       "id": "novadeck-star-maps-vol-2-digital",
@@ -999,8 +999,8 @@
       "image": "assets/vectors/novadeck-star-maps-vol-2-digital.svg",
       "name": "STAR MAPS VOL. 2 — Digital Album · MP3 / WAV / FLAC",
       "featured": false,
-      "stripePaymentLink": "https://buy.stripe.com/test_eVq14pcbt0kM4lKbEj2VG0J",
-      "stripePriceId": "price_1UM9xxQ6cu4UtZYouE35Zxhh"
+      "stripePaymentLink": "https://buy.stripe.com/eVq14pcbt0kM4lKbEj2VG0J",
+      "stripePriceId": "price_1UMAYAQ6cu4UtZYoVNc2rqYd"
     },
     {
       "id": "novadeck-orbit-7in",
@@ -1020,8 +1020,8 @@
       "image": "assets/vectors/novadeck-orbit-7in.svg",
       "name": "ORBIT — 7\" Single · Black Vinyl",
       "featured": false,
-      "stripePaymentLink": "https://buy.stripe.com/test_00w8wR2AT1oQg4s9wb2VG0K",
-      "stripePriceId": "price_1UM9xyQ6cu4UtZYoFdgPNdS9"
+      "stripePaymentLink": "https://buy.stripe.com/00w8wR2AT1oQg4s9wb2VG0K",
+      "stripePriceId": "price_1UMAYBQ6cu4UtZYouL9l8plj"
     },
     {
       "id": "novadeck-orbit-digital",
@@ -1041,8 +1041,8 @@
       "image": "assets/vectors/novadeck-orbit-digital.svg",
       "name": "ORBIT — Digital Single · MP3 / WAV / FLAC",
       "featured": false,
-      "stripePaymentLink": "https://buy.stripe.com/test_cNi3cx3EX1oQ5pOaAf2VG0L",
-      "stripePriceId": "price_1UM9y1Q6cu4UtZYoaDVpkhnF"
+      "stripePaymentLink": "https://buy.stripe.com/cNi3cx3EX1oQ5pOaAf2VG0L",
+      "stripePriceId": "price_1UMAYDQ6cu4UtZYoRloK3ery"
     },
     {
       "id": "v-void-voice-lp",
@@ -1062,8 +1062,8 @@
       "image": "assets/vectors/v-void-voice-lp.svg",
       "name": "VOID/VOICE — LP · Black Vinyl",
       "featured": false,
-      "stripePaymentLink": "https://buy.stripe.com/test_9B68wRdfxd7y19ycIn2VG0M",
-      "stripePriceId": "price_1UM9y2Q6cu4UtZYoLCZHG1eW"
+      "stripePaymentLink": "https://buy.stripe.com/9B68wRdfxd7y19ycIn2VG0M",
+      "stripePriceId": "price_1UMAYEQ6cu4UtZYo61Gry9S1"
     },
     {
       "id": "v-void-voice-cd",
@@ -1083,8 +1083,8 @@
       "image": "assets/vectors/v-void-voice-cd.svg",
       "name": "VOID/VOICE — CD · Jewel Case",
       "featured": false,
-      "stripePaymentLink": "https://buy.stripe.com/test_cNi28t0sL4B25pOcIn2VG0N",
-      "stripePriceId": "price_1UM9y4Q6cu4UtZYo0ThKLIfs"
+      "stripePaymentLink": "https://buy.stripe.com/cNi28t0sL4B25pOcIn2VG0N",
+      "stripePriceId": "price_1UMAYFQ6cu4UtZYoRRXIA0B6"
     },
     {
       "id": "v-void-voice-cassette",
@@ -1104,8 +1104,8 @@
       "image": "assets/vectors/v-void-voice-cassette.svg",
       "name": "VOID/VOICE — Cassette · Chrome Tape",
       "featured": false,
-      "stripePaymentLink": "https://buy.stripe.com/test_14AdRb3EXd7y05u0ZF2VG0O",
-      "stripePriceId": "price_1UM9y6Q6cu4UtZYozOamJiJT"
+      "stripePaymentLink": "https://buy.stripe.com/14AdRb3EXd7y05u0ZF2VG0O",
+      "stripePriceId": "price_1UMAYGQ6cu4UtZYoe2JgiZSh"
     },
     {
       "id": "v-void-voice-digital",
@@ -1125,8 +1125,8 @@
       "image": "assets/vectors/v-void-voice-digital.svg",
       "name": "VOID/VOICE — Digital Album · MP3 / WAV / FLAC",
       "featured": false,
-      "stripePaymentLink": "https://buy.stripe.com/test_28EdRb2ATaZq05ubEj2VG0P",
-      "stripePriceId": "price_1UM9y8Q6cu4UtZYoJQ8CiGOk"
+      "stripePaymentLink": "https://buy.stripe.com/28EdRb2ATaZq05ubEj2VG0P",
+      "stripePriceId": "price_1UMAYIQ6cu4UtZYoZgQpmgho"
     },
     {
       "id": "v-less-12in",
@@ -1146,8 +1146,8 @@
       "image": "assets/vectors/v-less-12in.svg",
       "name": "LESS — 12\" EP · Black Vinyl",
       "featured": false,
-      "stripePaymentLink": "https://buy.stripe.com/test_00w14p5N5c3u2dC9wb2VG0Q",
-      "stripePriceId": "price_1UM9yBQ6cu4UtZYoDW9rped4"
+      "stripePaymentLink": "https://buy.stripe.com/00w14p5N5c3u2dC9wb2VG0Q",
+      "stripePriceId": "price_1UMAYJQ6cu4UtZYoC9WRHvvp"
     },
     {
       "id": "v-less-cassette",
@@ -1167,8 +1167,8 @@
       "image": "assets/vectors/v-less-cassette.svg",
       "name": "LESS — Cassette EP",
       "featured": false,
-      "stripePaymentLink": "https://buy.stripe.com/test_8x214p4J1ffGg4s8s72VG0R",
-      "stripePriceId": "price_1UM9yDQ6cu4UtZYoRAbGZDkJ"
+      "stripePaymentLink": "https://buy.stripe.com/8x214p4J1ffGg4s8s72VG0R",
+      "stripePriceId": "price_1UMAYKQ6cu4UtZYoqbJv87K2"
     },
     {
       "id": "v-less-digital",
@@ -1188,8 +1188,8 @@
       "image": "assets/vectors/v-less-digital.svg",
       "name": "LESS — Digital EP · MP3 / WAV / FLAC",
       "featured": false,
-      "stripePaymentLink": "https://buy.stripe.com/test_8x2cN76R99Vmg4sbEj2VG0S",
-      "stripePriceId": "price_1UM9yEQ6cu4UtZYoPRMCuKMh"
+      "stripePaymentLink": "https://buy.stripe.com/8x2cN76R99Vmg4sbEj2VG0S",
+      "stripePriceId": "price_1UMAYMQ6cu4UtZYoucrBRNJo"
     },
     {
       "id": "v-one-7in",
@@ -1209,8 +1209,8 @@
       "image": "assets/vectors/v-one-7in.svg",
       "name": "ONE — 7\" Single · Black Vinyl",
       "featured": false,
-      "stripePaymentLink": "https://buy.stripe.com/test_aFa8wRejBaZq2dC8s72VG0T",
-      "stripePriceId": "price_1UM9yGQ6cu4UtZYoGzoaEZ4d"
+      "stripePaymentLink": "https://buy.stripe.com/aFa8wRejBaZq2dC8s72VG0T",
+      "stripePriceId": "price_1UMAYNQ6cu4UtZYo0of0SO52"
     },
     {
       "id": "v-one-digital",
@@ -1230,8 +1230,8 @@
       "image": "assets/vectors/v-one-digital.svg",
       "name": "ONE — Digital Single · MP3 / WAV / FLAC",
       "featured": false,
-      "stripePaymentLink": "https://buy.stripe.com/test_7sY7sN5N5aZq7xWeQv2VG0U",
-      "stripePriceId": "price_1UM9yIQ6cu4UtZYoANCnALIH"
+      "stripePaymentLink": "https://buy.stripe.com/7sY7sN5N5aZq7xWeQv2VG0U",
+      "stripePriceId": "price_1UMAYOQ6cu4UtZYoAm36nzAV"
     },
     {
       "id": "v-absence-lp",
@@ -1251,8 +1251,8 @@
       "image": "assets/vectors/v-absence-lp.svg",
       "name": "ABSENCE — LP · Black Vinyl",
       "featured": false,
-      "stripePaymentLink": "https://buy.stripe.com/test_4gM5kF1wP5F69G46jZ2VG0V",
-      "stripePriceId": "price_1UM9yKQ6cu4UtZYotjDjOFet"
+      "stripePaymentLink": "https://buy.stripe.com/4gM5kF1wP5F69G46jZ2VG0V",
+      "stripePriceId": "price_1UMAYPQ6cu4UtZYosbp6HRQw"
     },
     {
       "id": "v-absence-lp-color",
@@ -1274,8 +1274,8 @@
       "image": "assets/vectors/v-absence-lp-color.svg",
       "name": "ABSENCE — LP · Limited Clear Vinyl",
       "featured": false,
-      "stripePaymentLink": "https://buy.stripe.com/test_5kQaEZ0sL7Ne8C08s72VG0W",
-      "stripePriceId": "price_1UM9yMQ6cu4UtZYo6B97LdVr"
+      "stripePaymentLink": "https://buy.stripe.com/5kQaEZ0sL7Ne8C08s72VG0W",
+      "stripePriceId": "price_1UMAYRQ6cu4UtZYomQlkoSnA"
     },
     {
       "id": "v-absence-cd",
@@ -1295,8 +1295,8 @@
       "image": "assets/vectors/v-absence-cd.svg",
       "name": "ABSENCE — CD · Jewel Case",
       "featured": false,
-      "stripePaymentLink": "https://buy.stripe.com/test_4gM00l2ATffG19ycIn2VG0X",
-      "stripePriceId": "price_1UM9yOQ6cu4UtZYozIVQGp8w"
+      "stripePaymentLink": "https://buy.stripe.com/4gM00l2ATffG19ycIn2VG0X",
+      "stripePriceId": "price_1UMAYSQ6cu4UtZYoYbtac8Rm"
     },
     {
       "id": "v-absence-cassette",
@@ -1316,8 +1316,8 @@
       "image": "assets/vectors/v-absence-cassette.svg",
       "name": "ABSENCE — Cassette · Chrome Tape",
       "featured": false,
-      "stripePaymentLink": "https://buy.stripe.com/test_14AfZj7Vd8Ri19ybEj2VG0Y",
-      "stripePriceId": "price_1UM9yQQ6cu4UtZYoowSXdNFG"
+      "stripePaymentLink": "https://buy.stripe.com/14AfZj7Vd8Ri19ybEj2VG0Y",
+      "stripePriceId": "price_1UMAYTQ6cu4UtZYoKYSxt4Ka"
     },
     {
       "id": "v-absence-digital",
@@ -1337,8 +1337,8 @@
       "image": "assets/vectors/v-absence-digital.svg",
       "name": "ABSENCE — Digital Album · MP3 / WAV / FLAC",
       "featured": false,
-      "stripePaymentLink": "https://buy.stripe.com/test_dRm28t4J1d7y9G4gYD2VG0Z",
-      "stripePriceId": "price_1UM9ySQ6cu4UtZYoyCWwLC4l"
+      "stripePaymentLink": "https://buy.stripe.com/dRm28t4J1d7y9G4gYD2VG0Z",
+      "stripePriceId": "price_1UMAYUQ6cu4UtZYoNqb1dgej"
     },
     {
       "id": "skychild-above-the-line-12in",
@@ -1358,8 +1358,8 @@
       "image": "assets/vectors/skychild-above-the-line-12in.svg",
       "name": "ABOVE THE LINE — 12\" EP · Black Vinyl",
       "featured": false,
-      "stripePaymentLink": "https://buy.stripe.com/test_aFa28tb7pc3uf0o9wb2VG10",
-      "stripePriceId": "price_1UM9yUQ6cu4UtZYoIA4AJlr1"
+      "stripePaymentLink": "https://buy.stripe.com/aFa28tb7pc3uf0o9wb2VG10",
+      "stripePriceId": "price_1UMAYWQ6cu4UtZYoKrQnkxDO"
     },
     {
       "id": "skychild-above-the-line-cassette",
@@ -1379,8 +1379,8 @@
       "image": "assets/vectors/skychild-above-the-line-cassette.svg",
       "name": "ABOVE THE LINE — Cassette EP",
       "featured": false,
-      "stripePaymentLink": "https://buy.stripe.com/test_eVqcN72ATaZq2dC23J2VG11",
-      "stripePriceId": "price_1UM9yWQ6cu4UtZYoGZyOuwBd"
+      "stripePaymentLink": "https://buy.stripe.com/eVqcN72ATaZq2dC23J2VG11",
+      "stripePriceId": "price_1UMAYXQ6cu4UtZYofFBSLz8N"
     },
     {
       "id": "skychild-above-the-line-digital",
@@ -1400,8 +1400,8 @@
       "image": "assets/vectors/skychild-above-the-line-digital.svg",
       "name": "ABOVE THE LINE — Digital EP · MP3 / WAV / FLAC",
       "featured": false,
-      "stripePaymentLink": "https://buy.stripe.com/test_dRmbJ33EXebC3hGcIn2VG12",
-      "stripePriceId": "price_1UM9yYQ6cu4UtZYoxGRMSAgF"
+      "stripePaymentLink": "https://buy.stripe.com/dRmbJ33EXebC3hGcIn2VG12",
+      "stripePriceId": "price_1UMAYYQ6cu4UtZYoD00MFcLH"
     },
     {
       "id": "skychild-golden-hour-theory-lp",
@@ -1421,8 +1421,8 @@
       "image": "assets/vectors/skychild-golden-hour-theory-lp.svg",
       "name": "GOLDEN HOUR THEORY — LP · Black Vinyl",
       "featured": false,
-      "stripePaymentLink": "https://buy.stripe.com/test_7sYaEZgrJ3wY6tSaAf2VG13",
-      "stripePriceId": "price_1UM9yZQ6cu4UtZYo4HUAo2mV"
+      "stripePaymentLink": "https://buy.stripe.com/7sYaEZgrJ3wY6tSaAf2VG13",
+      "stripePriceId": "price_1UMAYaQ6cu4UtZYoJAIQhj2u"
     },
     {
       "id": "skychild-golden-hour-theory-cd",
@@ -1442,8 +1442,8 @@
       "image": "assets/vectors/skychild-golden-hour-theory-cd.svg",
       "name": "GOLDEN HOUR THEORY — CD · Jewel Case",
       "featured": false,
-      "stripePaymentLink": "https://buy.stripe.com/test_6oU8wR1wPc3u19y0ZF2VG14",
-      "stripePriceId": "price_1UM9ycQ6cu4UtZYoRLjn2yoi"
+      "stripePaymentLink": "https://buy.stripe.com/6oU8wR1wPc3u19y0ZF2VG14",
+      "stripePriceId": "price_1UMAYbQ6cu4UtZYo0VjpNPBT"
     },
     {
       "id": "skychild-golden-hour-theory-cassette",
@@ -1463,8 +1463,8 @@
       "image": "assets/vectors/skychild-golden-hour-theory-cassette.svg",
       "name": "GOLDEN HOUR THEORY — Cassette · Chrome Tape",
       "featured": false,
-      "stripePaymentLink": "https://buy.stripe.com/test_7sYeVffnFffGaK8cIn2VG15",
-      "stripePriceId": "price_1UM9yeQ6cu4UtZYowvLGDsyH"
+      "stripePaymentLink": "https://buy.stripe.com/7sYeVffnFffGaK8cIn2VG15",
+      "stripePriceId": "price_1UMAYcQ6cu4UtZYoeXwasjdp"
     },
     {
       "id": "skychild-golden-hour-theory-digital",
@@ -1484,8 +1484,8 @@
       "image": "assets/vectors/skychild-golden-hour-theory-digital.svg",
       "name": "GOLDEN HOUR THEORY — Digital Album · MP3 / WAV / FLAC",
       "featured": false,
-      "stripePaymentLink": "https://buy.stripe.com/test_9B68wR7VdgjK9G4aAf2VG16",
-      "stripePriceId": "price_1UM9yfQ6cu4UtZYocaQB8vLG"
+      "stripePaymentLink": "https://buy.stripe.com/9B68wR7VdgjK9G4aAf2VG16",
+      "stripePriceId": "price_1UMAYdQ6cu4UtZYogMmY9OM0"
     },
     {
       "id": "skychild-cumulus-7in",
@@ -1505,8 +1505,8 @@
       "image": "assets/vectors/skychild-cumulus-7in.svg",
       "name": "CUMULUS — 7\" Single · Black Vinyl",
       "featured": false,
-      "stripePaymentLink": "https://buy.stripe.com/test_cNi28t2AT9Vm4lKbEj2VG17",
-      "stripePriceId": "price_1UM9yhQ6cu4UtZYopI1zKG5X"
+      "stripePaymentLink": "https://buy.stripe.com/cNi28t2AT9Vm4lKbEj2VG17",
+      "stripePriceId": "price_1UMAYfQ6cu4UtZYoL0iAFHx8"
     },
     {
       "id": "skychild-cumulus-digital",
@@ -1526,8 +1526,8 @@
       "image": "assets/vectors/skychild-cumulus-digital.svg",
       "name": "CUMULUS — Digital Single · MP3 / WAV / FLAC",
       "featured": false,
-      "stripePaymentLink": "https://buy.stripe.com/test_7sY7sN1wP2sUdWk8s72VG18",
-      "stripePriceId": "price_1UM9yjQ6cu4UtZYonBtDQqgs"
+      "stripePaymentLink": "https://buy.stripe.com/7sY7sN1wP2sUdWk8s72VG18",
+      "stripePriceId": "price_1UMAYgQ6cu4UtZYoul6dx6pf"
     },
     {
       "id": "skychild-stratosphere-lp",
@@ -1547,8 +1547,8 @@
       "image": "assets/vectors/skychild-stratosphere-lp.svg",
       "name": "STRATOSPHERE — LP · Black Vinyl",
       "featured": false,
-      "stripePaymentLink": "https://buy.stripe.com/test_bJeeVfa3l1oQ19yeQv2VG19",
-      "stripePriceId": "price_1UM9ylQ6cu4UtZYoGoBGF9sq"
+      "stripePaymentLink": "https://buy.stripe.com/bJeeVfa3l1oQ19yeQv2VG19",
+      "stripePriceId": "price_1UMAYhQ6cu4UtZYolHL0FE1a"
     },
     {
       "id": "skychild-stratosphere-lp-color",
@@ -1570,8 +1570,8 @@
       "image": "assets/vectors/skychild-stratosphere-lp-color.svg",
       "name": "STRATOSPHERE — LP · Limited Sky Blue Vinyl",
       "featured": false,
-      "stripePaymentLink": "https://buy.stripe.com/test_4gMaEZcbt5F605ueQv2VG1a",
-      "stripePriceId": "price_1UM9ynQ6cu4UtZYo5xhT487G"
+      "stripePaymentLink": "https://buy.stripe.com/4gMaEZcbt5F605ueQv2VG1a",
+      "stripePriceId": "price_1UMAYiQ6cu4UtZYo9Qe2CqgH"
     },
     {
       "id": "skychild-stratosphere-cd",
@@ -1591,8 +1591,8 @@
       "image": "assets/vectors/skychild-stratosphere-cd.svg",
       "name": "STRATOSPHERE — CD · Jewel Case",
       "featured": false,
-      "stripePaymentLink": "https://buy.stripe.com/test_9B6bJ33EX3wY9G4eQv2VG1b",
-      "stripePriceId": "price_1UM9ypQ6cu4UtZYoqLb4Mg0D"
+      "stripePaymentLink": "https://buy.stripe.com/9B6bJ33EX3wY9G4eQv2VG1b",
+      "stripePriceId": "price_1UMAYkQ6cu4UtZYo2whU6eFw"
     },
     {
       "id": "skychild-stratosphere-cassette",
@@ -1612,8 +1612,8 @@
       "image": "assets/vectors/skychild-stratosphere-cassette.svg",
       "name": "STRATOSPHERE — Cassette · Chrome Tape",
       "featured": false,
-      "stripePaymentLink": "https://buy.stripe.com/test_aFa8wRejB9VmbOcbEj2VG1c",
-      "stripePriceId": "price_1UM9yrQ6cu4UtZYorBPoZP6d"
+      "stripePaymentLink": "https://buy.stripe.com/aFa8wRejB9VmbOcbEj2VG1c",
+      "stripePriceId": "price_1UMAYlQ6cu4UtZYonPg0AqBS"
     },
     {
       "id": "skychild-stratosphere-digital",
@@ -1633,8 +1633,8 @@
       "image": "assets/vectors/skychild-stratosphere-digital.svg",
       "name": "STRATOSPHERE — Digital Album · MP3 / WAV / FLAC",
       "featured": false,
-      "stripePaymentLink": "https://buy.stripe.com/test_6oU00l2ATaZq19y37N2VG1d",
-      "stripePriceId": "price_1UM9ytQ6cu4UtZYoHjDmGpvm"
+      "stripePaymentLink": "https://buy.stripe.com/6oU00l2ATaZq19y37N2VG1d",
+      "stripePriceId": "price_1UMAYmQ6cu4UtZYofcON16KR"
     },
     {
       "id": "nova-supernova-lp",
@@ -1654,8 +1654,8 @@
       "image": "assets/vectors/nova-supernova-lp.svg",
       "name": "SUPERNOVA — LP · Black Vinyl",
       "featured": false,
-      "stripePaymentLink": "https://buy.stripe.com/test_aFa14p6R97NedWk8s72VG1e",
-      "stripePriceId": "price_1UM9yvQ6cu4UtZYosPsk8RhM"
+      "stripePaymentLink": "https://buy.stripe.com/aFa14p6R97NedWk8s72VG1e",
+      "stripePriceId": "price_1UMAYoQ6cu4UtZYo29DlcY8x"
     },
     {
       "id": "nova-supernova-cd",
@@ -1675,8 +1675,8 @@
       "image": "assets/vectors/nova-supernova-cd.svg",
       "name": "SUPERNOVA — CD · Jewel Case",
       "featured": false,
-      "stripePaymentLink": "https://buy.stripe.com/test_8x214p5N5aZq19yeQv2VG1f",
-      "stripePriceId": "price_1UM9yxQ6cu4UtZYonhfNGZR9"
+      "stripePaymentLink": "https://buy.stripe.com/8x214p5N5aZq19yeQv2VG1f",
+      "stripePriceId": "price_1UMAYpQ6cu4UtZYoPT4iBoG5"
     },
     {
       "id": "nova-supernova-cassette",
@@ -1696,8 +1696,8 @@
       "image": "assets/vectors/nova-supernova-cassette.svg",
       "name": "SUPERNOVA — Cassette · Chrome Tape",
       "featured": false,
-      "stripePaymentLink": "https://buy.stripe.com/test_9B6bJ3grJ3wYf0o4bR2VG1g",
-      "stripePriceId": "price_1UM9yzQ6cu4UtZYoUydO5r3U"
+      "stripePaymentLink": "https://buy.stripe.com/9B6bJ3grJ3wYf0o4bR2VG1g",
+      "stripePriceId": "price_1UMAYqQ6cu4UtZYoN3tBfefF"
     },
     {
       "id": "nova-supernova-digital",
@@ -1717,8 +1717,8 @@
       "image": "assets/vectors/nova-supernova-digital.svg",
       "name": "SUPERNOVA — Digital Album · MP3 / WAV / FLAC",
       "featured": false,
-      "stripePaymentLink": "https://buy.stripe.com/test_dRm00l4J1ebC2dC9wb2VG1h",
-      "stripePriceId": "price_1UM9z2Q6cu4UtZYoge5PI4yZ"
+      "stripePaymentLink": "https://buy.stripe.com/dRm00l4J1ebC2dC9wb2VG1h",
+      "stripePriceId": "price_1UMAYrQ6cu4UtZYomeFCBUwg"
     },
     {
       "id": "nova-burn-bright-7in",
@@ -1738,8 +1738,8 @@
       "image": "assets/vectors/nova-burn-bright-7in.svg",
       "name": "BURN BRIGHT — 7\" Single · Black Vinyl",
       "featured": false,
-      "stripePaymentLink": "https://buy.stripe.com/test_eVqaEZdfx8Ri19ybEj2VG1i",
-      "stripePriceId": "price_1UM9z4Q6cu4UtZYoDxpEf2PL"
+      "stripePaymentLink": "https://buy.stripe.com/eVqaEZdfx8Ri19ybEj2VG1i",
+      "stripePriceId": "price_1UMAYtQ6cu4UtZYo4JqBWzi3"
     },
     {
       "id": "nova-burn-bright-digital",
@@ -1759,8 +1759,8 @@
       "image": "assets/vectors/nova-burn-bright-digital.svg",
       "name": "BURN BRIGHT — Digital Single · MP3 / WAV / FLAC",
       "featured": false,
-      "stripePaymentLink": "https://buy.stripe.com/test_5kQ00l7Vd8RidWkfUz2VG1j",
-      "stripePriceId": "price_1UM9z5Q6cu4UtZYonqXJXqA3"
+      "stripePaymentLink": "https://buy.stripe.com/5kQ00l7Vd8RidWkfUz2VG1j",
+      "stripePriceId": "price_1UMAYuQ6cu4UtZYo25AgyBXA"
     },
     {
       "id": "nova-stellar-lp",
@@ -1780,8 +1780,8 @@
       "image": "assets/vectors/nova-stellar-lp.svg",
       "name": "STELLAR — LP · Black Vinyl",
       "featured": false,
-      "stripePaymentLink": "https://buy.stripe.com/test_00w00lcbt0kM05ugYD2VG1k",
-      "stripePriceId": "price_1UM9z7Q6cu4UtZYozRPGYL4C"
+      "stripePaymentLink": "https://buy.stripe.com/00w00lcbt0kM05ugYD2VG1k",
+      "stripePriceId": "price_1UMAYvQ6cu4UtZYo66mUUyNu"
     },
     {
       "id": "nova-stellar-cd",
@@ -1801,8 +1801,8 @@
       "image": "assets/vectors/nova-stellar-cd.svg",
       "name": "STELLAR — CD · Jewel Case",
       "featured": false,
-      "stripePaymentLink": "https://buy.stripe.com/test_eVq6oJ1wP5F68C07o32VG1l",
-      "stripePriceId": "price_1UM9z9Q6cu4UtZYoAvxzOF0Q"
+      "stripePaymentLink": "https://buy.stripe.com/eVq6oJ1wP5F68C07o32VG1l",
+      "stripePriceId": "price_1UMAYwQ6cu4UtZYorFJUzOZF"
     },
     {
       "id": "nova-stellar-cassette",
@@ -1822,8 +1822,8 @@
       "image": "assets/vectors/nova-stellar-cassette.svg",
       "name": "STELLAR — Cassette · Chrome Tape",
       "featured": false,
-      "stripePaymentLink": "https://buy.stripe.com/test_4gMaEZgrJ5F605uaAf2VG1m",
-      "stripePriceId": "price_1UM9zBQ6cu4UtZYoBJkE6vcw"
+      "stripePaymentLink": "https://buy.stripe.com/4gMaEZgrJ5F605uaAf2VG1m",
+      "stripePriceId": "price_1UMAYyQ6cu4UtZYoaY9Gi9PY"
     },
     {
       "id": "nova-stellar-digital",
@@ -1843,8 +1843,8 @@
       "image": "assets/vectors/nova-stellar-digital.svg",
       "name": "STELLAR — Digital Album · MP3 / WAV / FLAC",
       "featured": false,
-      "stripePaymentLink": "https://buy.stripe.com/test_5kQ14pfnF6Ja19y4bR2VG1n",
-      "stripePriceId": "price_1UM9zDQ6cu4UtZYo3PmU6Mux"
+      "stripePaymentLink": "https://buy.stripe.com/5kQ14pfnF6Ja19y4bR2VG1n",
+      "stripePriceId": "price_1UMAYzQ6cu4UtZYoHgIqMOVB"
     },
     {
       "id": "nova-nova-x-bento-collision-12in",
@@ -1864,8 +1864,8 @@
       "image": "assets/vectors/nova-nova-x-bento-collision-12in.svg",
       "name": "NOVA x BENTO: COLLISION — 12\" EP · Black Vinyl",
       "featured": false,
-      "stripePaymentLink": "https://buy.stripe.com/test_5kQ9AV8Zh5F65pOfUz2VG1o",
-      "stripePriceId": "price_1UM9zFQ6cu4UtZYoo22zBxDA"
+      "stripePaymentLink": "https://buy.stripe.com/5kQ9AV8Zh5F65pOfUz2VG1o",
+      "stripePriceId": "price_1UMAZ0Q6cu4UtZYodFZ1HTqp"
     },
     {
       "id": "nova-nova-x-bento-collision-cassette",
@@ -1885,8 +1885,8 @@
       "image": "assets/vectors/nova-nova-x-bento-collision-cassette.svg",
       "name": "NOVA x BENTO: COLLISION — Cassette EP",
       "featured": false,
-      "stripePaymentLink": "https://buy.stripe.com/test_8x2bJ3cbt4B25pOaAf2VG1p",
-      "stripePriceId": "price_1UM9zHQ6cu4UtZYo8teRSMoK"
+      "stripePaymentLink": "https://buy.stripe.com/8x2bJ3cbt4B25pOaAf2VG1p",
+      "stripePriceId": "price_1UMAZ2Q6cu4UtZYo2r0DJt0j"
     },
     {
       "id": "nova-nova-x-bento-collision-digital",
@@ -1906,8 +1906,8 @@
       "image": "assets/vectors/nova-nova-x-bento-collision-digital.svg",
       "name": "NOVA x BENTO: COLLISION — Digital EP · MP3 / WAV / FLAC",
       "featured": false,
-      "stripePaymentLink": "https://buy.stripe.com/test_28EcN77Vd5F65pOfUz2VG1q",
-      "stripePriceId": "price_1UM9zJQ6cu4UtZYobCzSZ6cH"
+      "stripePaymentLink": "https://buy.stripe.com/28EcN77Vd5F65pOfUz2VG1q",
+      "stripePriceId": "price_1UMAZ3Q6cu4UtZYoaXJTT0bG"
     },
     {
       "id": "hiroform-structural-damage-12in",
@@ -1927,8 +1927,8 @@
       "image": "assets/vectors/hiroform-structural-damage-12in.svg",
       "name": "STRUCTURAL DAMAGE — 12\" EP · Black Vinyl",
       "featured": false,
-      "stripePaymentLink": "https://buy.stripe.com/test_14A14p5N5c3uaK80ZF2VG1r",
-      "stripePriceId": "price_1UM9zLQ6cu4UtZYo1KGkcXgn"
+      "stripePaymentLink": "https://buy.stripe.com/14A14p5N5c3uaK80ZF2VG1r",
+      "stripePriceId": "price_1UMAZ4Q6cu4UtZYo0Pu9EpNW"
     },
     {
       "id": "hiroform-structural-damage-cassette",
@@ -1948,8 +1948,8 @@
       "image": "assets/vectors/hiroform-structural-damage-cassette.svg",
       "name": "STRUCTURAL DAMAGE — Cassette EP",
       "featured": false,
-      "stripePaymentLink": "https://buy.stripe.com/test_eVq7sN7VdebC5pO7o32VG1s",
-      "stripePriceId": "price_1UM9zNQ6cu4UtZYokh1ewfdZ"
+      "stripePaymentLink": "https://buy.stripe.com/eVq7sN7VdebC5pO7o32VG1s",
+      "stripePriceId": "price_1UMAZ5Q6cu4UtZYoi7QSH07b"
     },
     {
       "id": "hiroform-structural-damage-digital",
@@ -1969,8 +1969,8 @@
       "image": "assets/vectors/hiroform-structural-damage-digital.svg",
       "name": "STRUCTURAL DAMAGE — Digital EP · MP3 / WAV / FLAC",
       "featured": false,
-      "stripePaymentLink": "https://buy.stripe.com/test_6oUbJ37Vd4B27xW4bR2VG1t",
-      "stripePriceId": "price_1UM9zPQ6cu4UtZYockaLhKgt"
+      "stripePaymentLink": "https://buy.stripe.com/6oUbJ37Vd4B27xW4bR2VG1t",
+      "stripePriceId": "price_1UMAZ7Q6cu4UtZYoJEoHNTbg"
     },
     {
       "id": "hiroform-cold-architecture-lp",
@@ -1990,8 +1990,8 @@
       "image": "assets/vectors/hiroform-cold-architecture-lp.svg",
       "name": "COLD ARCHITECTURE — LP · Black Vinyl",
       "featured": false,
-      "stripePaymentLink": "https://buy.stripe.com/test_00w3cx8Zh0kM6tS0ZF2VG1u",
-      "stripePriceId": "price_1UM9zRQ6cu4UtZYom1VV4mTX"
+      "stripePaymentLink": "https://buy.stripe.com/00w3cx8Zh0kM6tS0ZF2VG1u",
+      "stripePriceId": "price_1UMAZ8Q6cu4UtZYoknxN10Wt"
     },
     {
       "id": "hiroform-cold-architecture-cd",
@@ -2011,8 +2011,8 @@
       "image": "assets/vectors/hiroform-cold-architecture-cd.svg",
       "name": "COLD ARCHITECTURE — CD · Jewel Case",
       "featured": false,
-      "stripePaymentLink": "https://buy.stripe.com/test_6oU5kF1wP4B22dC6jZ2VG1v",
-      "stripePriceId": "price_1UM9zTQ6cu4UtZYon28YEP9B"
+      "stripePaymentLink": "https://buy.stripe.com/6oU5kF1wP4B22dC6jZ2VG1v",
+      "stripePriceId": "price_1UMAZ9Q6cu4UtZYoUG7x0Ffy"
     },
     {
       "id": "hiroform-cold-architecture-cassette",
@@ -2032,8 +2032,8 @@
       "image": "assets/vectors/hiroform-cold-architecture-cassette.svg",
       "name": "COLD ARCHITECTURE — Cassette · Chrome Tape",
       "featured": false,
-      "stripePaymentLink": "https://buy.stripe.com/test_cNiaEZ2AT6JacSg4bR2VG1w",
-      "stripePriceId": "price_1UM9zVQ6cu4UtZYohyeqjwOu"
+      "stripePaymentLink": "https://buy.stripe.com/cNiaEZ2AT6JacSg4bR2VG1w",
+      "stripePriceId": "price_1UMAZAQ6cu4UtZYose0xbDmY"
     },
     {
       "id": "hiroform-cold-architecture-digital",
@@ -2053,8 +2053,8 @@
       "image": "assets/vectors/hiroform-cold-architecture-digital.svg",
       "name": "COLD ARCHITECTURE — Digital Album · MP3 / WAV / FLAC",
       "featured": false,
-      "stripePaymentLink": "https://buy.stripe.com/test_bJedRb5N52sU05u6jZ2VG1x",
-      "stripePriceId": "price_1UM9zXQ6cu4UtZYoLj5X9o3n"
+      "stripePaymentLink": "https://buy.stripe.com/bJedRb5N52sU05u6jZ2VG1x",
+      "stripePriceId": "price_1UMAZCQ6cu4UtZYoO2MSujuL"
     },
     {
       "id": "hiroform-system-failure-7in",
@@ -2074,8 +2074,8 @@
       "image": "assets/vectors/hiroform-system-failure-7in.svg",
       "name": "SYSTEM FAILURE — 7\" Single · Black Vinyl",
       "featured": false,
-      "stripePaymentLink": "https://buy.stripe.com/test_eVq14pb7pgjK05u5fV2VG1y",
-      "stripePriceId": "price_1UM9zZQ6cu4UtZYo8F5VgDwm"
+      "stripePaymentLink": "https://buy.stripe.com/eVq14pb7pgjK05u5fV2VG1y",
+      "stripePriceId": "price_1UMAZDQ6cu4UtZYoilNQccEC"
     },
     {
       "id": "hiroform-system-failure-digital",
@@ -2095,8 +2095,8 @@
       "image": "assets/vectors/hiroform-system-failure-digital.svg",
       "name": "SYSTEM FAILURE — Digital Single · MP3 / WAV / FLAC",
       "featured": false,
-      "stripePaymentLink": "https://buy.stripe.com/test_dRm28tdfx7NebOcaAf2VG1z",
-      "stripePriceId": "price_1UM9zbQ6cu4UtZYodXFoezGZ"
+      "stripePaymentLink": "https://buy.stripe.com/dRm28tdfx7NebOcaAf2VG1z",
+      "stripePriceId": "price_1UMAZEQ6cu4UtZYoZvOSJVMx"
     },
     {
       "id": "hiroform-form-ii-lp",
@@ -2116,8 +2116,8 @@
       "image": "assets/vectors/hiroform-form-ii-lp.svg",
       "name": "FORM II — LP · Black Vinyl",
       "featured": false,
-      "stripePaymentLink": "https://buy.stripe.com/test_aFadRb5N57Ne8C09wb2VG1A",
-      "stripePriceId": "price_1UM9zdQ6cu4UtZYorR4jMSgs"
+      "stripePaymentLink": "https://buy.stripe.com/aFadRb5N57Ne8C09wb2VG1A",
+      "stripePriceId": "price_1UMAZFQ6cu4UtZYopjzhHynC"
     },
     {
       "id": "hiroform-form-ii-lp-color",
@@ -2139,8 +2139,8 @@
       "image": "assets/vectors/hiroform-form-ii-lp-color.svg",
       "name": "FORM II — LP · Limited Smoke Grey Vinyl",
       "featured": false,
-      "stripePaymentLink": "https://buy.stripe.com/test_eVq28tejB9VmbOceQv2VG1B",
-      "stripePriceId": "price_1UM9zfQ6cu4UtZYoNIQojoXg"
+      "stripePaymentLink": "https://buy.stripe.com/eVq28tejB9VmbOceQv2VG1B",
+      "stripePriceId": "price_1UMAZHQ6cu4UtZYoae3HvkiK"
     },
     {
       "id": "hiroform-form-ii-cd",
@@ -2160,8 +2160,8 @@
       "image": "assets/vectors/hiroform-form-ii-cd.svg",
       "name": "FORM II — CD · Jewel Case",
       "featured": false,
-      "stripePaymentLink": "https://buy.stripe.com/test_5kQ00l7VdffG7xW23J2VG1C",
-      "stripePriceId": "price_1UM9zhQ6cu4UtZYosET1xEwP"
+      "stripePaymentLink": "https://buy.stripe.com/5kQ00l7VdffG7xW23J2VG1C",
+      "stripePriceId": "price_1UMAZIQ6cu4UtZYowkZNBIbm"
     },
     {
       "id": "hiroform-form-ii-cassette",
@@ -2181,8 +2181,8 @@
       "image": "assets/vectors/hiroform-form-ii-cassette.svg",
       "name": "FORM II — Cassette · Chrome Tape",
       "featured": false,
-      "stripePaymentLink": "https://buy.stripe.com/test_3cIfZjcbt1oQ05ufUz2VG1D",
-      "stripePriceId": "price_1UM9ziQ6cu4UtZYo5J5ajze6"
+      "stripePaymentLink": "https://buy.stripe.com/3cIfZjcbt1oQ05ufUz2VG1D",
+      "stripePriceId": "price_1UMAZJQ6cu4UtZYoxxtcNhns"
     },
     {
       "id": "hiroform-form-ii-digital",
@@ -2202,8 +2202,8 @@
       "image": "assets/vectors/hiroform-form-ii-digital.svg",
       "name": "FORM II — Digital Album · MP3 / WAV / FLAC",
       "featured": false,
-      "stripePaymentLink": "https://buy.stripe.com/test_bJefZj6R91oQ8C0aAf2VG1E",
-      "stripePriceId": "price_1UM9zkQ6cu4UtZYoJmoU2OWd"
+      "stripePaymentLink": "https://buy.stripe.com/bJefZj6R91oQ8C0aAf2VG1E",
+      "stripePriceId": "price_1UMAZLQ6cu4UtZYoAazFg1WY"
     },
     {
       "id": "cerominusone-zero-12in",
@@ -2223,8 +2223,8 @@
       "image": "assets/vectors/cerominusone-zero-12in.svg",
       "name": "ZERO — 12\" EP · Black Vinyl",
       "featured": false,
-      "stripePaymentLink": "https://buy.stripe.com/test_fZudRb2AT0kMf0odMr2VG1F",
-      "stripePriceId": "price_1UM9zmQ6cu4UtZYoa6PmYJ03"
+      "stripePaymentLink": "https://buy.stripe.com/fZudRb2AT0kMf0odMr2VG1F",
+      "stripePriceId": "price_1UMAZMQ6cu4UtZYorBzVdAyX"
     },
     {
       "id": "cerominusone-zero-cassette",
@@ -2244,8 +2244,8 @@
       "image": "assets/vectors/cerominusone-zero-cassette.svg",
       "name": "ZERO — Cassette EP",
       "featured": false,
-      "stripePaymentLink": "https://buy.stripe.com/test_3cIfZj1wP3wY5pO0ZF2VG1G",
-      "stripePriceId": "price_1UM9zoQ6cu4UtZYo9opWeGxv"
+      "stripePaymentLink": "https://buy.stripe.com/3cIfZj1wP3wY5pO0ZF2VG1G",
+      "stripePriceId": "price_1UMAZNQ6cu4UtZYorIhmmZQI"
     },
     {
       "id": "cerominusone-zero-digital",
@@ -2265,8 +2265,8 @@
       "image": "assets/vectors/cerominusone-zero-digital.svg",
       "name": "ZERO — Digital EP · MP3 / WAV / FLAC",
       "featured": false,
-      "stripePaymentLink": "https://buy.stripe.com/test_28EfZjb7p4B24lK9wb2VG1H",
-      "stripePriceId": "price_1UM9zqQ6cu4UtZYoB9wDOaeR"
+      "stripePaymentLink": "https://buy.stripe.com/28EfZjb7p4B24lK9wb2VG1H",
+      "stripePriceId": "price_1UMAZOQ6cu4UtZYoVJy4cRZT"
     },
     {
       "id": "cerominusone-minus-lp",
@@ -2286,8 +2286,8 @@
       "image": "assets/vectors/cerominusone-minus-lp.svg",
       "name": "MINUS — LP · Black Vinyl",
       "featured": false,
-      "stripePaymentLink": "https://buy.stripe.com/test_3cI5kF3EX7Nef0o7o32VG1I",
-      "stripePriceId": "price_1UM9zsQ6cu4UtZYoe5wcI6PU"
+      "stripePaymentLink": "https://buy.stripe.com/3cI5kF3EX7Nef0o7o32VG1I",
+      "stripePriceId": "price_1UMAZPQ6cu4UtZYoYNZTXVrZ"
     },
     {
       "id": "cerominusone-minus-cd",
@@ -2307,8 +2307,8 @@
       "image": "assets/vectors/cerominusone-minus-cd.svg",
       "name": "MINUS — CD · Jewel Case",
       "featured": false,
-      "stripePaymentLink": "https://buy.stripe.com/test_bJe00la3lffGg4sdMr2VG1J",
-      "stripePriceId": "price_1UM9zuQ6cu4UtZYozcZyLbTO"
+      "stripePaymentLink": "https://buy.stripe.com/bJe00la3lffGg4sdMr2VG1J",
+      "stripePriceId": "price_1UMAZRQ6cu4UtZYovKaeHkXw"
     },
     {
       "id": "cerominusone-minus-cassette",
@@ -2328,8 +2328,8 @@
       "image": "assets/vectors/cerominusone-minus-cassette.svg",
       "name": "MINUS — Cassette · Chrome Tape",
       "featured": false,
-      "stripePaymentLink": "https://buy.stripe.com/test_14AcN74J1ebCg4s5fV2VG1K",
-      "stripePriceId": "price_1UM9zwQ6cu4UtZYoAGVvIhOY"
+      "stripePaymentLink": "https://buy.stripe.com/14AcN74J1ebCg4s5fV2VG1K",
+      "stripePriceId": "price_1UMAZSQ6cu4UtZYo8ISe3dNJ"
     },
     {
       "id": "cerominusone-minus-digital",
@@ -2349,8 +2349,8 @@
       "image": "assets/vectors/cerominusone-minus-digital.svg",
       "name": "MINUS — Digital Album · MP3 / WAV / FLAC",
       "featured": false,
-      "stripePaymentLink": "https://buy.stripe.com/test_3cI8wRfnF9VmcSg7o32VG1L",
-      "stripePriceId": "price_1UM9zyQ6cu4UtZYouHOhVxr8"
+      "stripePaymentLink": "https://buy.stripe.com/3cI8wRfnF9VmcSg7o32VG1L",
+      "stripePriceId": "price_1UMAZTQ6cu4UtZYo3C3P6Ou1"
     },
     {
       "id": "cerominusone-one-7in",
@@ -2370,8 +2370,8 @@
       "image": "assets/vectors/cerominusone-one-7in.svg",
       "name": "ONE — 7\" Single · Black Vinyl",
       "featured": false,
-      "stripePaymentLink": "https://buy.stripe.com/test_bJe28tcbtebC9G4gYD2VG1M",
-      "stripePriceId": "price_1UMA00Q6cu4UtZYo8ktf6mRV"
+      "stripePaymentLink": "https://buy.stripe.com/bJe28tcbtebC9G4gYD2VG1M",
+      "stripePriceId": "price_1UMAZVQ6cu4UtZYoBmyzstUf"
     },
     {
       "id": "cerominusone-one-digital",
@@ -2391,8 +2391,8 @@
       "image": "assets/vectors/cerominusone-one-digital.svg",
       "name": "ONE — Digital Single · MP3 / WAV / FLAC",
       "featured": false,
-      "stripePaymentLink": "https://buy.stripe.com/test_dRm3cxfnF7Nef0o23J2VG1N",
-      "stripePriceId": "price_1UMA02Q6cu4UtZYo3KTScomu"
+      "stripePaymentLink": "https://buy.stripe.com/dRm3cxfnF7Nef0o23J2VG1N",
+      "stripePriceId": "price_1UMAZWQ6cu4UtZYoaOahgQo5"
     },
     {
       "id": "cerominusone-null-state-lp",
@@ -2412,8 +2412,8 @@
       "image": "assets/vectors/cerominusone-null-state-lp.svg",
       "name": "NULL STATE — LP · Black Vinyl",
       "featured": false,
-      "stripePaymentLink": "https://buy.stripe.com/test_7sYaEZdfxc3u05u0ZF2VG1O",
-      "stripePriceId": "price_1UMA04Q6cu4UtZYoafsNdbaC"
+      "stripePaymentLink": "https://buy.stripe.com/7sYaEZdfxc3u05u0ZF2VG1O",
+      "stripePriceId": "price_1UMAZXQ6cu4UtZYoxQfcsVtH"
     },
     {
       "id": "cerominusone-null-state-lp-color",
@@ -2435,8 +2435,8 @@
       "image": "assets/vectors/cerominusone-null-state-lp-color.svg",
       "name": "NULL STATE — LP · Limited Blood Red Vinyl",
       "featured": false,
-      "stripePaymentLink": "https://buy.stripe.com/test_5kQ4gB6R95F67xWbEj2VG1P",
-      "stripePriceId": "price_1UMA05Q6cu4UtZYovgcpwAHs"
+      "stripePaymentLink": "https://buy.stripe.com/5kQ4gB6R95F67xWbEj2VG1P",
+      "stripePriceId": "price_1UMAZYQ6cu4UtZYoTrZATm1c"
     },
     {
       "id": "cerominusone-null-state-cd",
@@ -2456,8 +2456,8 @@
       "image": "assets/vectors/cerominusone-null-state-cd.svg",
       "name": "NULL STATE — CD · Jewel Case",
       "featured": false,
-      "stripePaymentLink": "https://buy.stripe.com/test_00w3cxfnF1oQ6tScIn2VG1Q",
-      "stripePriceId": "price_1UMA07Q6cu4UtZYog8Mj9era"
+      "stripePaymentLink": "https://buy.stripe.com/00w3cxfnF1oQ6tScIn2VG1Q",
+      "stripePriceId": "price_1UMAZaQ6cu4UtZYouqSB9ryy"
     },
     {
       "id": "cerominusone-null-state-cassette",
@@ -2477,8 +2477,8 @@
       "image": "assets/vectors/cerominusone-null-state-cassette.svg",
       "name": "NULL STATE — Cassette · Chrome Tape",
       "featured": false,
-      "stripePaymentLink": "https://buy.stripe.com/test_fZu5kFfnF5F6bOc8s72VG1R",
-      "stripePriceId": "price_1UMA09Q6cu4UtZYo6vhAx48K"
+      "stripePaymentLink": "https://buy.stripe.com/fZu5kFfnF5F6bOc8s72VG1R",
+      "stripePriceId": "price_1UMAZbQ6cu4UtZYoY1RttlnV"
     },
     {
       "id": "cerominusone-null-state-digital",
@@ -2498,8 +2498,8 @@
       "image": "assets/vectors/cerominusone-null-state-digital.svg",
       "name": "NULL STATE — Digital Album · MP3 / WAV / FLAC",
       "featured": false,
-      "stripePaymentLink": "https://buy.stripe.com/test_8x2dRb4J12sUf0ogYD2VG1S",
-      "stripePriceId": "price_1UMA0BQ6cu4UtZYoJKNWuXeh"
+      "stripePaymentLink": "https://buy.stripe.com/8x2dRb4J12sUf0ogYD2VG1S",
+      "stripePriceId": "price_1UMAZcQ6cu4UtZYoDCYjy29N"
     },
     {
       "id": "cerominusone-signal-noise-12in",
@@ -2519,8 +2519,8 @@
       "image": "assets/vectors/cerominusone-signal-noise-12in.svg",
       "name": "SIGNAL / NOISE — 12\" EP · Black Vinyl",
       "featured": false,
-      "stripePaymentLink": "https://buy.stripe.com/test_eVq14p5N56JabOc23J2VG1T",
-      "stripePriceId": "price_1UMA0DQ6cu4UtZYoMgECz07e"
+      "stripePaymentLink": "https://buy.stripe.com/eVq14p5N56JabOc23J2VG1T",
+      "stripePriceId": "price_1UMAZdQ6cu4UtZYoRmIfcOEd"
     },
     {
       "id": "cerominusone-signal-noise-cassette",
@@ -2540,8 +2540,8 @@
       "image": "assets/vectors/cerominusone-signal-noise-cassette.svg",
       "name": "SIGNAL / NOISE — Cassette EP",
       "featured": false,
-      "stripePaymentLink": "https://buy.stripe.com/test_14AaEZa3lgjK7xW37N2VG1U",
-      "stripePriceId": "price_1UMA0GQ6cu4UtZYoJAPDJEkh"
+      "stripePaymentLink": "https://buy.stripe.com/14AaEZa3lgjK7xW37N2VG1U",
+      "stripePriceId": "price_1UMAZfQ6cu4UtZYoea4VWiwQ"
     },
     {
       "id": "cerominusone-signal-noise-digital",
@@ -2561,8 +2561,8 @@
       "image": "assets/vectors/cerominusone-signal-noise-digital.svg",
       "name": "SIGNAL / NOISE — Digital EP · MP3 / WAV / FLAC",
       "featured": false,
-      "stripePaymentLink": "https://buy.stripe.com/test_8x2fZj1wP0kM2dC7o32VG1V",
-      "stripePriceId": "price_1UMA0IQ6cu4UtZYonFO5O8i4"
+      "stripePaymentLink": "https://buy.stripe.com/8x2fZj1wP0kM2dC7o32VG1V",
+      "stripePriceId": "price_1UMAZgQ6cu4UtZYoReh78QVU"
     },
     {
       "id": "speakeasy-last-call-7in",
@@ -2582,8 +2582,8 @@
       "image": "assets/vectors/speakeasy-last-call-7in.svg",
       "name": "LAST CALL — 7\" Single · Black Vinyl",
       "featured": false,
-      "stripePaymentLink": "https://buy.stripe.com/test_3cIcN70sL6Ja7xW5fV2VG1W",
-      "stripePriceId": "price_1UMA0JQ6cu4UtZYovfgC2a0Y"
+      "stripePaymentLink": "https://buy.stripe.com/3cIcN70sL6Ja7xW5fV2VG1W",
+      "stripePriceId": "price_1UMAZhQ6cu4UtZYorxa28K0c"
     },
     {
       "id": "speakeasy-last-call-digital",
@@ -2603,8 +2603,8 @@
       "image": "assets/vectors/speakeasy-last-call-digital.svg",
       "name": "LAST CALL — Digital Single · MP3 / WAV / FLAC",
       "featured": false,
-      "stripePaymentLink": "https://buy.stripe.com/test_9B64gB0sL7Ne9G423J2VG1X",
-      "stripePriceId": "price_1UMA0LQ6cu4UtZYolZdNd05a"
+      "stripePaymentLink": "https://buy.stripe.com/9B64gB0sL7Ne9G423J2VG1X",
+      "stripePriceId": "price_1UMAZjQ6cu4UtZYo9Ous1gcC"
     },
     {
       "id": "speakeasy-prohibition-lp",
@@ -2624,8 +2624,8 @@
       "image": "assets/vectors/speakeasy-prohibition-lp.svg",
       "name": "PROHIBITION — LP · Black Vinyl",
       "featured": false,
-      "stripePaymentLink": "https://buy.stripe.com/test_9B6bJ3b7pebC5pO0ZF2VG1Y",
-      "stripePriceId": "price_1UMA0OQ6cu4UtZYokpE4i39e"
+      "stripePaymentLink": "https://buy.stripe.com/9B6bJ3b7pebC5pO0ZF2VG1Y",
+      "stripePriceId": "price_1UMAZkQ6cu4UtZYovdim7WLU"
     },
     {
       "id": "speakeasy-prohibition-cd",
@@ -2645,8 +2645,8 @@
       "image": "assets/vectors/speakeasy-prohibition-cd.svg",
       "name": "PROHIBITION — CD · Jewel Case",
       "featured": false,
-      "stripePaymentLink": "https://buy.stripe.com/test_5kQaEZgrJ8Ri3hGcIn2VG1Z",
-      "stripePriceId": "price_1UMA0QQ6cu4UtZYoVAbilXUe"
+      "stripePaymentLink": "https://buy.stripe.com/5kQaEZgrJ8Ri3hGcIn2VG1Z",
+      "stripePriceId": "price_1UMAZlQ6cu4UtZYoyVSg7PQP"
     },
     {
       "id": "speakeasy-prohibition-cassette",
@@ -2666,8 +2666,8 @@
       "image": "assets/vectors/speakeasy-prohibition-cassette.svg",
       "name": "PROHIBITION — Cassette · Chrome Tape",
       "featured": false,
-      "stripePaymentLink": "https://buy.stripe.com/test_28E5kF3EXffG2dC23J2VG20",
-      "stripePriceId": "price_1UMA0SQ6cu4UtZYoFjidKM04"
+      "stripePaymentLink": "https://buy.stripe.com/28E5kF3EXffG2dC23J2VG20",
+      "stripePriceId": "price_1UMAZmQ6cu4UtZYo5PGTA8TJ"
     },
     {
       "id": "speakeasy-prohibition-digital",
@@ -2687,8 +2687,8 @@
       "image": "assets/vectors/speakeasy-prohibition-digital.svg",
       "name": "PROHIBITION — Digital Album · MP3 / WAV / FLAC",
       "featured": false,
-      "stripePaymentLink": "https://buy.stripe.com/test_cNi3cx3EXc3u19ydMr2VG21",
-      "stripePriceId": "price_1UMA0UQ6cu4UtZYo5TQMVBgP"
+      "stripePaymentLink": "https://buy.stripe.com/cNi3cx3EXc3u19ydMr2VG21",
+      "stripePriceId": "price_1UMAZnQ6cu4UtZYo5WUT2iJX"
     },
     {
       "id": "speakeasy-after-hours-12in",
@@ -2708,8 +2708,8 @@
       "image": "assets/vectors/speakeasy-after-hours-12in.svg",
       "name": "AFTER HOURS — 12\" EP · Black Vinyl",
       "featured": false,
-      "stripePaymentLink": "https://buy.stripe.com/test_28E00lejBebCaK87o32VG22",
-      "stripePriceId": "price_1UMA0WQ6cu4UtZYohVuFxOOo"
+      "stripePaymentLink": "https://buy.stripe.com/28E00lejBebCaK87o32VG22",
+      "stripePriceId": "price_1UMAZpQ6cu4UtZYoEL99jpjL"
     },
     {
       "id": "speakeasy-after-hours-cassette",
@@ -2729,8 +2729,8 @@
       "image": "assets/vectors/speakeasy-after-hours-cassette.svg",
       "name": "AFTER HOURS — Cassette EP",
       "featured": false,
-      "stripePaymentLink": "https://buy.stripe.com/test_aFa7sN0sLaZq8C0fUz2VG23",
-      "stripePriceId": "price_1UMA0XQ6cu4UtZYo3onsa58K"
+      "stripePaymentLink": "https://buy.stripe.com/aFa7sN0sLaZq8C0fUz2VG23",
+      "stripePriceId": "price_1UMAZqQ6cu4UtZYoIiMz1H5O"
     },
     {
       "id": "speakeasy-after-hours-digital",
@@ -2750,8 +2750,8 @@
       "image": "assets/vectors/speakeasy-after-hours-digital.svg",
       "name": "AFTER HOURS — Digital EP · MP3 / WAV / FLAC",
       "featured": false,
-      "stripePaymentLink": "https://buy.stripe.com/test_bJebJ36R98RicSg9wb2VG24",
-      "stripePriceId": "price_1UMA0ZQ6cu4UtZYoCsnO8sG9"
+      "stripePaymentLink": "https://buy.stripe.com/bJebJ36R98RicSg9wb2VG24",
+      "stripePriceId": "price_1UMAZrQ6cu4UtZYoqPlD3g4n"
     },
     {
       "id": "speakeasy-the-confession-7in",
@@ -2771,8 +2771,8 @@
       "image": "assets/vectors/speakeasy-the-confession-7in.svg",
       "name": "THE CONFESSION — 7\" Single · Black Vinyl",
       "featured": false,
-      "stripePaymentLink": "https://buy.stripe.com/test_fZubJ3fnF1oQ7xW0ZF2VG25",
-      "stripePriceId": "price_1UMA0bQ6cu4UtZYoDSKFrJnx"
+      "stripePaymentLink": "https://buy.stripe.com/fZubJ3fnF1oQ7xW0ZF2VG25",
+      "stripePriceId": "price_1UMAZsQ6cu4UtZYo7mmoI41A"
     },
     {
       "id": "speakeasy-the-confession-digital",
@@ -2792,8 +2792,8 @@
       "image": "assets/vectors/speakeasy-the-confession-digital.svg",
       "name": "THE CONFESSION — Digital Single · MP3 / WAV / FLAC",
       "featured": false,
-      "stripePaymentLink": "https://buy.stripe.com/test_bJeaEZcbtd7y7xWaAf2VG26",
-      "stripePriceId": "price_1UMA0dQ6cu4UtZYoBMToKn2H"
+      "stripePaymentLink": "https://buy.stripe.com/bJeaEZcbtd7y7xWaAf2VG26",
+      "stripePriceId": "price_1UMAZuQ6cu4UtZYoQYfZLpgZ"
     },
     {
       "id": "speakeasy-volume-ii-lp",
@@ -2813,8 +2813,8 @@
       "image": "assets/vectors/speakeasy-volume-ii-lp.svg",
       "name": "VOLUME II — LP · Black Vinyl",
       "featured": false,
-      "stripePaymentLink": "https://buy.stripe.com/test_3cIfZj1wP6Jaf0ogYD2VG27",
-      "stripePriceId": "price_1UMA0fQ6cu4UtZYo6YjYtLg8"
+      "stripePaymentLink": "https://buy.stripe.com/3cIfZj1wP6Jaf0ogYD2VG27",
+      "stripePriceId": "price_1UMAZvQ6cu4UtZYohyOOhU6s"
     },
     {
       "id": "speakeasy-volume-ii-lp-color",
@@ -2836,8 +2836,8 @@
       "image": "assets/vectors/speakeasy-volume-ii-lp-color.svg",
       "name": "VOLUME II — LP · Limited Emerald Vinyl",
       "featured": false,
-      "stripePaymentLink": "https://buy.stripe.com/test_3cI14p8Zh0kMf0o8s72VG28",
-      "stripePriceId": "price_1UMA0hQ6cu4UtZYoxDi7TNpq"
+      "stripePaymentLink": "https://buy.stripe.com/3cI14p8Zh0kMf0o8s72VG28",
+      "stripePriceId": "price_1UMAZwQ6cu4UtZYo31vyuNdh"
     },
     {
       "id": "speakeasy-volume-ii-cd",
@@ -2857,8 +2857,8 @@
       "image": "assets/vectors/speakeasy-volume-ii-cd.svg",
       "name": "VOLUME II — CD · Jewel Case",
       "featured": false,
-      "stripePaymentLink": "https://buy.stripe.com/test_fZu5kFgrJd7yg4sdMr2VG29",
-      "stripePriceId": "price_1UMA0jQ6cu4UtZYovSxqAx9O"
+      "stripePaymentLink": "https://buy.stripe.com/fZu5kFgrJd7yg4sdMr2VG29",
+      "stripePriceId": "price_1UMAZxQ6cu4UtZYoxHFfhUCj"
     },
     {
       "id": "speakeasy-volume-ii-cassette",
@@ -2878,8 +2878,8 @@
       "image": "assets/vectors/speakeasy-volume-ii-cassette.svg",
       "name": "VOLUME II — Cassette · Chrome Tape",
       "featured": false,
-      "stripePaymentLink": "https://buy.stripe.com/test_14A5kF2AT6JadWk8s72VG2a",
-      "stripePriceId": "price_1UMA0lQ6cu4UtZYoMe1EAp3t"
+      "stripePaymentLink": "https://buy.stripe.com/14A5kF2AT6JadWk8s72VG2a",
+      "stripePriceId": "price_1UMAZzQ6cu4UtZYoP1jyhBRi"
     },
     {
       "id": "speakeasy-volume-ii-digital",
@@ -2899,8 +2899,8 @@
       "image": "assets/vectors/speakeasy-volume-ii-digital.svg",
       "name": "VOLUME II — Digital Album · MP3 / WAV / FLAC",
       "featured": false,
-      "stripePaymentLink": "https://buy.stripe.com/test_5kQ5kFgrJ8Ri05u8s72VG2b",
-      "stripePriceId": "price_1UMA0nQ6cu4UtZYoqaMrXDtl"
+      "stripePaymentLink": "https://buy.stripe.com/5kQ5kFgrJ8Ri05u8s72VG2b",
+      "stripePriceId": "price_1UMAa0Q6cu4UtZYoFZt0z3kG"
     },
     {
       "id": "wunderland-rabbit-hole-12in",
@@ -2920,8 +2920,8 @@
       "image": "assets/vectors/wunderland-rabbit-hole-12in.svg",
       "name": "RABBIT HOLE — 12\" EP · Black Vinyl",
       "featured": false,
-      "stripePaymentLink": "https://buy.stripe.com/test_bJecN7a3l6Ja7xW6jZ2VG2c",
-      "stripePriceId": "price_1UMA0pQ6cu4UtZYoYiU3Dfxz"
+      "stripePaymentLink": "https://buy.stripe.com/bJecN7a3l6Ja7xW6jZ2VG2c",
+      "stripePriceId": "price_1UMAa1Q6cu4UtZYoNVP7VYf3"
     },
     {
       "id": "wunderland-rabbit-hole-cassette",
@@ -2941,8 +2941,8 @@
       "image": "assets/vectors/wunderland-rabbit-hole-cassette.svg",
       "name": "RABBIT HOLE — Cassette EP",
       "featured": false,
-      "stripePaymentLink": "https://buy.stripe.com/test_14A6oJcbt5F605u7o32VG2d",
-      "stripePriceId": "price_1UMA0rQ6cu4UtZYo4n83qpKq"
+      "stripePaymentLink": "https://buy.stripe.com/14A6oJcbt5F605u7o32VG2d",
+      "stripePriceId": "price_1UMAa2Q6cu4UtZYoi1Uymn0x"
     },
     {
       "id": "wunderland-rabbit-hole-digital",
@@ -2962,8 +2962,8 @@
       "image": "assets/vectors/wunderland-rabbit-hole-digital.svg",
       "name": "RABBIT HOLE — Digital EP · MP3 / WAV / FLAC",
       "featured": false,
-      "stripePaymentLink": "https://buy.stripe.com/test_bJe6oJcbt9VmdWk8s72VG2e",
-      "stripePriceId": "price_1UMA0tQ6cu4UtZYoKyj3ZxFs"
+      "stripePaymentLink": "https://buy.stripe.com/bJe6oJcbt9VmdWk8s72VG2e",
+      "stripePriceId": "price_1UMAa4Q6cu4UtZYorAyz3dYq"
     },
     {
       "id": "wunderland-mad-world-lp",
@@ -2983,8 +2983,8 @@
       "image": "assets/vectors/wunderland-mad-world-lp.svg",
       "name": "MAD WORLD — LP · Black Vinyl",
       "featured": false,
-      "stripePaymentLink": "https://buy.stripe.com/test_dRmaEZ8Zhc3u19yaAf2VG2f",
-      "stripePriceId": "price_1UMA0vQ6cu4UtZYod5G8kEba"
+      "stripePaymentLink": "https://buy.stripe.com/dRmaEZ8Zhc3u19yaAf2VG2f",
+      "stripePriceId": "price_1UMAa5Q6cu4UtZYocDJOlIon"
     },
     {
       "id": "wunderland-mad-world-cd",
@@ -3004,8 +3004,8 @@
       "image": "assets/vectors/wunderland-mad-world-cd.svg",
       "name": "MAD WORLD — CD · Jewel Case",
       "featured": false,
-      "stripePaymentLink": "https://buy.stripe.com/test_8x2eVf8ZhffG9G4eQv2VG2g",
-      "stripePriceId": "price_1UMA0xQ6cu4UtZYo4Hm0Y6kB"
+      "stripePaymentLink": "https://buy.stripe.com/8x2eVf8ZhffG9G4eQv2VG2g",
+      "stripePriceId": "price_1UMAa6Q6cu4UtZYos4Fdsp3l"
     },
     {
       "id": "wunderland-mad-world-cassette",
@@ -3025,8 +3025,8 @@
       "image": "assets/vectors/wunderland-mad-world-cassette.svg",
       "name": "MAD WORLD — Cassette · Chrome Tape",
       "featured": false,
-      "stripePaymentLink": "https://buy.stripe.com/test_7sY00l0sLaZq4lK4bR2VG2h",
-      "stripePriceId": "price_1UMA0zQ6cu4UtZYoZd5EW53m"
+      "stripePaymentLink": "https://buy.stripe.com/7sY00l0sLaZq4lK4bR2VG2h",
+      "stripePriceId": "price_1UMAa7Q6cu4UtZYo9hRmdt0m"
     },
     {
       "id": "wunderland-mad-world-digital",
@@ -3046,8 +3046,8 @@
       "image": "assets/vectors/wunderland-mad-world-digital.svg",
       "name": "MAD WORLD — Digital Album · MP3 / WAV / FLAC",
       "featured": false,
-      "stripePaymentLink": "https://buy.stripe.com/test_14AdRb7Vd6Ja8C07o32VG2i",
-      "stripePriceId": "price_1UMA11Q6cu4UtZYoj3xiCPaZ"
+      "stripePaymentLink": "https://buy.stripe.com/14AdRb7Vd6Ja8C07o32VG2i",
+      "stripePriceId": "price_1UMAa9Q6cu4UtZYowmTb76JE"
     },
     {
       "id": "wunderland-looking-glass-7in",
@@ -3067,8 +3067,8 @@
       "image": "assets/vectors/wunderland-looking-glass-7in.svg",
       "name": "LOOKING GLASS — 7\" Single · Black Vinyl",
       "featured": false,
-      "stripePaymentLink": "https://buy.stripe.com/test_00weVf0sL8Ri9G423J2VG2j",
-      "stripePriceId": "price_1UMA13Q6cu4UtZYoi0qjzGUJ"
+      "stripePaymentLink": "https://buy.stripe.com/00weVf0sL8Ri9G423J2VG2j",
+      "stripePriceId": "price_1UMAaAQ6cu4UtZYoKbjwi4uA"
     },
     {
       "id": "wunderland-looking-glass-digital",
@@ -3088,8 +3088,8 @@
       "image": "assets/vectors/wunderland-looking-glass-digital.svg",
       "name": "LOOKING GLASS — Digital Single · MP3 / WAV / FLAC",
       "featured": false,
-      "stripePaymentLink": "https://buy.stripe.com/test_7sYaEZ5N56Ja4lK37N2VG2k",
-      "stripePriceId": "price_1UMA14Q6cu4UtZYo4F87A9bq"
+      "stripePaymentLink": "https://buy.stripe.com/7sYaEZ5N56Ja4lK37N2VG2k",
+      "stripePriceId": "price_1UMAaBQ6cu4UtZYoZzdIw3v4"
     },
     {
       "id": "wunderland-queen-of-hearts-lp",
@@ -3109,8 +3109,8 @@
       "image": "assets/vectors/wunderland-queen-of-hearts-lp.svg",
       "name": "QUEEN OF HEARTS — LP · Black Vinyl",
       "featured": false,
-      "stripePaymentLink": "https://buy.stripe.com/test_14A00ldfxgjK8C0eQv2VG2l",
-      "stripePriceId": "price_1UMA16Q6cu4UtZYo6V0O6w68"
+      "stripePaymentLink": "https://buy.stripe.com/14A00ldfxgjK8C0eQv2VG2l",
+      "stripePriceId": "price_1UMAaCQ6cu4UtZYoGvBmnccT"
     },
     {
       "id": "wunderland-queen-of-hearts-lp-color",
@@ -3132,8 +3132,8 @@
       "image": "assets/vectors/wunderland-queen-of-hearts-lp-color.svg",
       "name": "QUEEN OF HEARTS — LP · Limited Violet Vinyl",
       "featured": false,
-      "stripePaymentLink": "https://buy.stripe.com/test_eVqeVffnFebC19y23J2VG2m",
-      "stripePriceId": "price_1UMA18Q6cu4UtZYoiJ0MEWkU"
+      "stripePaymentLink": "https://buy.stripe.com/eVqeVffnFebC19y23J2VG2m",
+      "stripePriceId": "price_1UMAaEQ6cu4UtZYoMDcHaNEH"
     },
     {
       "id": "wunderland-queen-of-hearts-cd",
@@ -3153,8 +3153,8 @@
       "image": "assets/vectors/wunderland-queen-of-hearts-cd.svg",
       "name": "QUEEN OF HEARTS — CD · Jewel Case",
       "featured": false,
-      "stripePaymentLink": "https://buy.stripe.com/test_dRm00lb7p8Ri3hG8s72VG2n",
-      "stripePriceId": "price_1UMA1AQ6cu4UtZYoSgDEYmPN"
+      "stripePaymentLink": "https://buy.stripe.com/dRm00lb7p8Ri3hG8s72VG2n",
+      "stripePriceId": "price_1UMAaHQ6cu4UtZYoLsAGV7AF"
     },
     {
       "id": "wunderland-queen-of-hearts-cassette",
@@ -3174,8 +3174,8 @@
       "image": "assets/vectors/wunderland-queen-of-hearts-cassette.svg",
       "name": "QUEEN OF HEARTS — Cassette · Chrome Tape",
       "featured": false,
-      "stripePaymentLink": "https://buy.stripe.com/test_6oUaEZcbtaZq5pOfUz2VG2o",
-      "stripePriceId": "price_1UMA1CQ6cu4UtZYoesoXcLBa"
+      "stripePaymentLink": "https://buy.stripe.com/6oUaEZcbtaZq5pOfUz2VG2o",
+      "stripePriceId": "price_1UMAaIQ6cu4UtZYoyVeUWZQO"
     },
     {
       "id": "wunderland-queen-of-hearts-digital",
@@ -3195,8 +3195,8 @@
       "image": "assets/vectors/wunderland-queen-of-hearts-digital.svg",
       "name": "QUEEN OF HEARTS — Digital Album · MP3 / WAV / FLAC",
       "featured": false,
-      "stripePaymentLink": "https://buy.stripe.com/test_eVqbJ3a3l9Vm3hGeQv2VG2p",
-      "stripePriceId": "price_1UMA1EQ6cu4UtZYomleeb6c8"
+      "stripePaymentLink": "https://buy.stripe.com/eVqbJ3a3l9Vm3hGeQv2VG2p",
+      "stripePriceId": "price_1UMAaJQ6cu4UtZYoa1tmFx7w"
     },
     {
       "id": "julian-exe-boot-sequence-12in",
@@ -3216,8 +3216,8 @@
       "image": "assets/vectors/julian-exe-boot-sequence-12in.svg",
       "name": "BOOT SEQUENCE — 12\" EP · Black Vinyl",
       "featured": false,
-      "stripePaymentLink": "https://buy.stripe.com/test_5kQdRbejB2sU3hGaAf2VG2q",
-      "stripePriceId": "price_1UMA1GQ6cu4UtZYo0kB4d3Xp"
+      "stripePaymentLink": "https://buy.stripe.com/5kQdRbejB2sU3hGaAf2VG2q",
+      "stripePriceId": "price_1UMAaLQ6cu4UtZYoc1E3lNc8"
     },
     {
       "id": "julian-exe-boot-sequence-cassette",
@@ -3237,8 +3237,8 @@
       "image": "assets/vectors/julian-exe-boot-sequence-cassette.svg",
       "name": "BOOT SEQUENCE — Cassette EP",
       "featured": false,
-      "stripePaymentLink": "https://buy.stripe.com/test_9B64gB5N52sUdWkeQv2VG2r",
-      "stripePriceId": "price_1UMA1IQ6cu4UtZYom3Il553B"
+      "stripePaymentLink": "https://buy.stripe.com/9B64gB5N52sUdWkeQv2VG2r",
+      "stripePriceId": "price_1UMAaMQ6cu4UtZYojKFBnwPM"
     },
     {
       "id": "julian-exe-boot-sequence-digital",
@@ -3258,8 +3258,8 @@
       "image": "assets/vectors/julian-exe-boot-sequence-digital.svg",
       "name": "BOOT SEQUENCE — Digital EP · MP3 / WAV / FLAC",
       "featured": false,
-      "stripePaymentLink": "https://buy.stripe.com/test_7sY6oJ0sL1oQf0ofUz2VG2s",
-      "stripePriceId": "price_1UMA1KQ6cu4UtZYoQwHGAHgb"
+      "stripePaymentLink": "https://buy.stripe.com/7sY6oJ0sL1oQf0ofUz2VG2s",
+      "stripePriceId": "price_1UMAaNQ6cu4UtZYoieaxilD9"
     },
     {
       "id": "julian-exe-system-override-lp",
@@ -3279,8 +3279,8 @@
       "image": "assets/vectors/julian-exe-system-override-lp.svg",
       "name": "SYSTEM OVERRIDE — LP · Black Vinyl",
       "featured": false,
-      "stripePaymentLink": "https://buy.stripe.com/test_3cI6oJ0sLaZq19yeQv2VG2t",
-      "stripePriceId": "price_1UMA1MQ6cu4UtZYoLs8OEYyw"
+      "stripePaymentLink": "https://buy.stripe.com/3cI6oJ0sLaZq19yeQv2VG2t",
+      "stripePriceId": "price_1UMAaOQ6cu4UtZYoHDQsYSBJ"
     },
     {
       "id": "julian-exe-system-override-cd",
@@ -3300,8 +3300,8 @@
       "image": "assets/vectors/julian-exe-system-override-cd.svg",
       "name": "SYSTEM OVERRIDE — CD · Jewel Case",
       "featured": false,
-      "stripePaymentLink": "https://buy.stripe.com/test_cNifZj0sL1oQdWk5fV2VG2u",
-      "stripePriceId": "price_1UMA1OQ6cu4UtZYoNHq1f2vw"
+      "stripePaymentLink": "https://buy.stripe.com/cNifZj0sL1oQdWk5fV2VG2u",
+      "stripePriceId": "price_1UMAaQQ6cu4UtZYouibohob4"
     },
     {
       "id": "julian-exe-system-override-cassette",
@@ -3321,8 +3321,8 @@
       "image": "assets/vectors/julian-exe-system-override-cassette.svg",
       "name": "SYSTEM OVERRIDE — Cassette · Chrome Tape",
       "featured": false,
-      "stripePaymentLink": "https://buy.stripe.com/test_dRm3cx3EXffG2dC5fV2VG2v",
-      "stripePriceId": "price_1UMA1QQ6cu4UtZYoYE9wKfqs"
+      "stripePaymentLink": "https://buy.stripe.com/dRm3cx3EXffG2dC5fV2VG2v",
+      "stripePriceId": "price_1UMAaRQ6cu4UtZYoD23kn0vA"
     },
     {
       "id": "julian-exe-system-override-digital",
@@ -3342,8 +3342,8 @@
       "image": "assets/vectors/julian-exe-system-override-digital.svg",
       "name": "SYSTEM OVERRIDE — Digital Album · MP3 / WAV / FLAC",
       "featured": false,
-      "stripePaymentLink": "https://buy.stripe.com/test_aFa28t0sL6JacSg4bR2VG2w",
-      "stripePriceId": "price_1UMA1SQ6cu4UtZYouwuP5FzP"
+      "stripePaymentLink": "https://buy.stripe.com/aFa28t0sL6JacSg4bR2VG2w",
+      "stripePriceId": "price_1UMAaSQ6cu4UtZYo1wq6Fi2L"
     },
     {
       "id": "julian-exe-corrupted-7in",
@@ -3363,8 +3363,8 @@
       "image": "assets/vectors/julian-exe-corrupted-7in.svg",
       "name": "CORRUPTED — 7\" Single · Black Vinyl",
       "featured": false,
-      "stripePaymentLink": "https://buy.stripe.com/test_14AeVfb7p7Neg4s0ZF2VG2x",
-      "stripePriceId": "price_1UMA1UQ6cu4UtZYoetDWV37K"
+      "stripePaymentLink": "https://buy.stripe.com/14AeVfb7p7Neg4s0ZF2VG2x",
+      "stripePriceId": "price_1UMAaTQ6cu4UtZYowCJuNEIE"
     },
     {
       "id": "julian-exe-corrupted-digital",
@@ -3384,8 +3384,8 @@
       "image": "assets/vectors/julian-exe-corrupted-digital.svg",
       "name": "CORRUPTED — Digital Single · MP3 / WAV / FLAC",
       "featured": false,
-      "stripePaymentLink": "https://buy.stripe.com/test_cNibJ3grJ3wY4lKaAf2VG2y",
-      "stripePriceId": "price_1UMA1VQ6cu4UtZYoOoBUdb09"
+      "stripePaymentLink": "https://buy.stripe.com/cNibJ3grJ3wY4lKaAf2VG2y",
+      "stripePriceId": "price_1UMAaVQ6cu4UtZYoIwgKu7bk"
     },
     {
       "id": "julian-exe-reboot-lp",
@@ -3405,8 +3405,8 @@
       "image": "assets/vectors/julian-exe-reboot-lp.svg",
       "name": "REBOOT — LP · Black Vinyl",
       "featured": false,
-      "stripePaymentLink": "https://buy.stripe.com/test_5kQdRbb7p2sU6tS23J2VG2z",
-      "stripePriceId": "price_1UMA1XQ6cu4UtZYo2uYKEVRg"
+      "stripePaymentLink": "https://buy.stripe.com/5kQdRbb7p2sU6tS23J2VG2z",
+      "stripePriceId": "price_1UMAaWQ6cu4UtZYoa9CpLxo4"
     },
     {
       "id": "julian-exe-reboot-lp-color",
@@ -3428,8 +3428,8 @@
       "image": "assets/vectors/julian-exe-reboot-lp-color.svg",
       "name": "REBOOT — LP · Limited Neon Green Vinyl",
       "featured": false,
-      "stripePaymentLink": "https://buy.stripe.com/test_dRm6oJ3EXd7y05ufUz2VG2A",
-      "stripePriceId": "price_1UMA1ZQ6cu4UtZYo9h5GoMHg"
+      "stripePaymentLink": "https://buy.stripe.com/dRm6oJ3EXd7y05ufUz2VG2A",
+      "stripePriceId": "price_1UMAaXQ6cu4UtZYo6a2eYm78"
     },
     {
       "id": "julian-exe-reboot-cd",
@@ -3449,8 +3449,8 @@
       "image": "assets/vectors/julian-exe-reboot-cd.svg",
       "name": "REBOOT — CD · Jewel Case",
       "featured": false,
-      "stripePaymentLink": "https://buy.stripe.com/test_9B6aEZ8ZhffG3hG37N2VG2B",
-      "stripePriceId": "price_1UMA1bQ6cu4UtZYo6pBzo57e"
+      "stripePaymentLink": "https://buy.stripe.com/9B6aEZ8ZhffG3hG37N2VG2B",
+      "stripePriceId": "price_1UMAaYQ6cu4UtZYoZLXRrKqh"
     },
     {
       "id": "julian-exe-reboot-cassette",
@@ -3470,8 +3470,8 @@
       "image": "assets/vectors/julian-exe-reboot-cassette.svg",
       "name": "REBOOT — Cassette · Chrome Tape",
       "featured": false,
-      "stripePaymentLink": "https://buy.stripe.com/test_9B6bJ30sLaZq2dC5fV2VG2C",
-      "stripePriceId": "price_1UMA1dQ6cu4UtZYoVvL7jgH7"
+      "stripePaymentLink": "https://buy.stripe.com/9B6bJ30sLaZq2dC5fV2VG2C",
+      "stripePriceId": "price_1UMAaaQ6cu4UtZYoD9z4Cm1k"
     },
     {
       "id": "julian-exe-reboot-digital",
@@ -3491,8 +3491,8 @@
       "image": "assets/vectors/julian-exe-reboot-digital.svg",
       "name": "REBOOT — Digital Album · MP3 / WAV / FLAC",
       "featured": false,
-      "stripePaymentLink": "https://buy.stripe.com/test_9B66oJfnF4B28C06jZ2VG2D",
-      "stripePriceId": "price_1UMA1fQ6cu4UtZYoOL3dJfyc"
+      "stripePaymentLink": "https://buy.stripe.com/9B66oJfnF4B28C06jZ2VG2D",
+      "stripePriceId": "price_1UMAabQ6cu4UtZYokYRgNh8G"
     },
     {
       "format": "Merch",
@@ -3513,8 +3513,8 @@
       "image": "assets/vectors/wl-hex-tee-black.svg",
       "name": "Hex Logo Tee — T-Shirt · Black",
       "featured": false,
-      "stripePaymentLink": "https://buy.stripe.com/test_fZu9AVdfx9Vm7xWaAf2VG2E",
-      "stripePriceId": "price_1UMA1hQ6cu4UtZYoviAyXdk7"
+      "stripePaymentLink": "https://buy.stripe.com/fZu9AVdfx9Vm7xWaAf2VG2E",
+      "stripePriceId": "price_1UMAacQ6cu4UtZYoTR2F5DA1"
     },
     {
       "format": "Merch",
@@ -3535,8 +3535,8 @@
       "image": "assets/vectors/wl-sound-tee-pearl.svg",
       "name": "The Sound of the Group Tee — T-Shirt · Pearl",
       "featured": false,
-      "stripePaymentLink": "https://buy.stripe.com/test_dRmfZj5N54B26tSbEj2VG2F",
-      "stripePriceId": "price_1UMA1jQ6cu4UtZYoYd37Xoex"
+      "stripePaymentLink": "https://buy.stripe.com/dRmfZj5N54B26tSbEj2VG2F",
+      "stripePriceId": "price_1UMAadQ6cu4UtZYoANIiKukZ"
     },
     {
       "format": "Merch",
@@ -3557,8 +3557,8 @@
       "image": "assets/vectors/wl-divisions-tee.svg",
       "name": "Three Divisions Tee — T-Shirt · Black",
       "featured": false,
-      "stripePaymentLink": "https://buy.stripe.com/test_bJedRba3l9Vm9G47o32VG2G",
-      "stripePriceId": "price_1UMA1lQ6cu4UtZYoGcvJtav7"
+      "stripePaymentLink": "https://buy.stripe.com/bJedRba3l9Vm9G47o32VG2G",
+      "stripePriceId": "price_1UMAafQ6cu4UtZYollX8vwBJ"
     },
     {
       "format": "Merch",
@@ -3579,8 +3579,8 @@
       "image": "assets/vectors/wl-wunderland-hoodie.svg",
       "name": "WUNDER/LAND Hoodie — Hoodie · Graphite",
       "featured": false,
-      "stripePaymentLink": "https://buy.stripe.com/test_5kQeVf7Vd4B2cSgeQv2VG2H",
-      "stripePriceId": "price_1UMA1nQ6cu4UtZYodXTq0REB"
+      "stripePaymentLink": "https://buy.stripe.com/5kQeVf7Vd4B2cSgeQv2VG2H",
+      "stripePriceId": "price_1UMAagQ6cu4UtZYoVYf49pFK"
     },
     {
       "format": "Merch",
@@ -3601,8 +3601,8 @@
       "image": "assets/vectors/wl-hex-cap.svg",
       "name": "Hex Mark Dad Cap — Cap · Black / Gold",
       "featured": false,
-      "stripePaymentLink": "https://buy.stripe.com/test_28EaEZ7VdaZq8C0aAf2VG2I",
-      "stripePriceId": "price_1UMA1pQ6cu4UtZYo1kK0w610"
+      "stripePaymentLink": "https://buy.stripe.com/28EaEZ7VdaZq8C0aAf2VG2I",
+      "stripePriceId": "price_1UMAahQ6cu4UtZYoNXYh8IIl"
     },
     {
       "format": "Merch",
@@ -3623,8 +3623,8 @@
       "image": "assets/vectors/wl-label-tote.svg",
       "name": "Label Tote — Tote Bag · Natural",
       "featured": false,
-      "stripePaymentLink": "https://buy.stripe.com/test_8x27sNfnF5F66tSfUz2VG2J",
-      "stripePriceId": "price_1UMA1rQ6cu4UtZYoYOvVTJw1"
+      "stripePaymentLink": "https://buy.stripe.com/8x27sNfnF5F66tSfUz2VG2J",
+      "stripePriceId": "price_1UMAajQ6cu4UtZYodbJ5V6RP"
     },
     {
       "format": "Merch",
@@ -3645,8 +3645,8 @@
       "image": "assets/vectors/wl-sticker-pack.svg",
       "name": "Sticker Pack — 5 Die-Cut Stickers",
       "featured": false,
-      "stripePaymentLink": "https://buy.stripe.com/test_5kQdRb7Vd0kM05u9wb2VG2K",
-      "stripePriceId": "price_1UMA1tQ6cu4UtZYoqhCaIR5k"
+      "stripePaymentLink": "https://buy.stripe.com/5kQdRb7Vd0kM05u9wb2VG2K",
+      "stripePriceId": "price_1UMAakQ6cu4UtZYoSww5hLZd"
     },
     {
       "format": "Merch",
@@ -3667,8 +3667,8 @@
       "image": "assets/vectors/wl-hex-slipmat.svg",
       "name": "Hex Slipmat — 12\" Slipmat",
       "featured": false,
-      "stripePaymentLink": "https://buy.stripe.com/test_9B63cx3EX9Vm4lK9wb2VG2L",
-      "stripePriceId": "price_1UMA1vQ6cu4UtZYoZ7HFZB7X"
+      "stripePaymentLink": "https://buy.stripe.com/9B63cx3EX9Vm4lK9wb2VG2L",
+      "stripePriceId": "price_1UMAalQ6cu4UtZYoj49oL5tk"
     },
     {
       "format": "Merch",
@@ -3689,8 +3689,8 @@
       "image": "assets/vectors/wl-roster-poster.svg",
       "name": "The Roster Poster — Poster · 18\" × 24\"",
       "featured": false,
-      "stripePaymentLink": "https://buy.stripe.com/test_7sYeVf3EXd7y2dCeQv2VG2M",
-      "stripePriceId": "price_1UMA1xQ6cu4UtZYoERISUYRl"
+      "stripePaymentLink": "https://buy.stripe.com/7sYeVf3EXd7y2dCeQv2VG2M",
+      "stripePriceId": "price_1UMAamQ6cu4UtZYoZ2WjWxJz"
     },
     {
       "format": "Merch",
@@ -3711,8 +3711,8 @@
       "image": "assets/vectors/wl-footprint-poster.svg",
       "name": "Global Footprint Poster — Poster · 18\" × 24\"",
       "featured": false,
-      "stripePaymentLink": "https://buy.stripe.com/test_6oU00lfnF8Ri7xWcIn2VG2N",
-      "stripePriceId": "price_1UMA1zQ6cu4UtZYoCUybvCSS"
+      "stripePaymentLink": "https://buy.stripe.com/6oU00lfnF8Ri7xWcIn2VG2N",
+      "stripePriceId": "price_1UMAaoQ6cu4UtZYoOiiSovRf"
     },
     {
       "format": "Merch",
@@ -3733,8 +3733,8 @@
       "image": "assets/vectors/vyserion-tee.svg",
       "name": "VYSERION Tee — T-Shirt · Black",
       "featured": false,
-      "stripePaymentLink": "https://buy.stripe.com/test_6oUaEZ2AT0kM7xW0ZF2VG2O",
-      "stripePriceId": "price_1UMA21Q6cu4UtZYonXRhucgX"
+      "stripePaymentLink": "https://buy.stripe.com/6oUaEZ2AT0kM7xW0ZF2VG2O",
+      "stripePriceId": "price_1UMAapQ6cu4UtZYob0WMFe9F"
     },
     {
       "format": "Merch",
@@ -3755,8 +3755,8 @@
       "image": "assets/vectors/bento-tee.svg",
       "name": "BENTO Tee — T-Shirt · Black",
       "featured": false,
-      "stripePaymentLink": "https://buy.stripe.com/test_bJe7sN8Zh7Ne19y9wb2VG2P",
-      "stripePriceId": "price_1UMA23Q6cu4UtZYoXWBli1hD"
+      "stripePaymentLink": "https://buy.stripe.com/bJe7sN8Zh7Ne19y9wb2VG2P",
+      "stripePriceId": "price_1UMAaqQ6cu4UtZYo62akQpTT"
     },
     {
       "format": "Merch",
@@ -3777,8 +3777,8 @@
       "image": "assets/vectors/novadeck-tee.svg",
       "name": "NOVADECK Tee — T-Shirt · Black",
       "featured": false,
-      "stripePaymentLink": "https://buy.stripe.com/test_cNi8wRb7p8Ri19y5fV2VG2Q",
-      "stripePriceId": "price_1UMA25Q6cu4UtZYoyyl31IEW"
+      "stripePaymentLink": "https://buy.stripe.com/cNi8wRb7p8Ri19y5fV2VG2Q",
+      "stripePriceId": "price_1UMAarQ6cu4UtZYouVRNNIYS"
     },
     {
       "format": "Merch",
@@ -3799,8 +3799,8 @@
       "image": "assets/vectors/v-tee.svg",
       "name": "V Tee — T-Shirt · Black",
       "featured": false,
-      "stripePaymentLink": "https://buy.stripe.com/test_eVq9AV3EX5F6aK8eQv2VG2R",
-      "stripePriceId": "price_1UMA27Q6cu4UtZYopQm6GgPp"
+      "stripePaymentLink": "https://buy.stripe.com/eVq9AV3EX5F6aK8eQv2VG2R",
+      "stripePriceId": "price_1UMAatQ6cu4UtZYoy6MriPUK"
     },
     {
       "format": "Merch",
@@ -3821,8 +3821,8 @@
       "image": "assets/vectors/skychild-tee.svg",
       "name": "SKYCHILD Tee — T-Shirt · Black",
       "featured": false,
-      "stripePaymentLink": "https://buy.stripe.com/test_28E8wRejB8RidWkeQv2VG2S",
-      "stripePriceId": "price_1UMA29Q6cu4UtZYoQZogjgXC"
+      "stripePaymentLink": "https://buy.stripe.com/28E8wRejB8RidWkeQv2VG2S",
+      "stripePriceId": "price_1UMAauQ6cu4UtZYoOdK5FjMj"
     },
     {
       "format": "Merch",
@@ -3843,8 +3843,8 @@
       "image": "assets/vectors/nova-tee.svg",
       "name": "NOVA Tee — T-Shirt · Black",
       "featured": false,
-      "stripePaymentLink": "https://buy.stripe.com/test_14A00lejBd7y19y4bR2VG2T",
-      "stripePriceId": "price_1UMA2BQ6cu4UtZYoezzKvk2V"
+      "stripePaymentLink": "https://buy.stripe.com/14A00lejBd7y19y4bR2VG2T",
+      "stripePriceId": "price_1UMAavQ6cu4UtZYo8ruUb520"
     },
     {
       "format": "Merch",
@@ -3865,8 +3865,8 @@
       "image": "assets/vectors/hiroform-tee.svg",
       "name": "HIROFORM Tee — T-Shirt · Black",
       "featured": false,
-      "stripePaymentLink": "https://buy.stripe.com/test_aFabJ3b7p4B24lKdMr2VG2U",
-      "stripePriceId": "price_1UMA2DQ6cu4UtZYoNZS7ZHBy"
+      "stripePaymentLink": "https://buy.stripe.com/aFabJ3b7p4B24lKdMr2VG2U",
+      "stripePriceId": "price_1UMAawQ6cu4UtZYoyYDvxOVp"
     },
     {
       "format": "Merch",
@@ -3887,8 +3887,8 @@
       "image": "assets/vectors/cerominusone-tee.svg",
       "name": "CEROMINUSONE Tee — T-Shirt · Black",
       "featured": false,
-      "stripePaymentLink": "https://buy.stripe.com/test_00w8wRa3l1oQdWkgYD2VG2V",
-      "stripePriceId": "price_1UMA2FQ6cu4UtZYosh5Yj3d5"
+      "stripePaymentLink": "https://buy.stripe.com/00w8wRa3l1oQdWkgYD2VG2V",
+      "stripePriceId": "price_1UMAayQ6cu4UtZYomvDQmoza"
     },
     {
       "format": "Merch",
@@ -3909,8 +3909,8 @@
       "image": "assets/vectors/speakeasy-tee.svg",
       "name": "SPEAKEASY Tee — T-Shirt · Black",
       "featured": false,
-      "stripePaymentLink": "https://buy.stripe.com/test_14A14p5N52sU3hG5fV2VG2W",
-      "stripePriceId": "price_1UMA2HQ6cu4UtZYoGPBuf5fA"
+      "stripePaymentLink": "https://buy.stripe.com/14A14p5N52sU3hG5fV2VG2W",
+      "stripePriceId": "price_1UMAazQ6cu4UtZYoOKH2Htnt"
     },
     {
       "format": "Merch",
@@ -3931,8 +3931,8 @@
       "image": "assets/vectors/wunderland-tee.svg",
       "name": "WUNDERLAND Tee — T-Shirt · Black",
       "featured": false,
-      "stripePaymentLink": "https://buy.stripe.com/test_3cI4gBa3l9Vm5pOcIn2VG2X",
-      "stripePriceId": "price_1UMA2JQ6cu4UtZYorvByw2Xt"
+      "stripePaymentLink": "https://buy.stripe.com/3cI4gBa3l9Vm5pOcIn2VG2X",
+      "stripePriceId": "price_1UMAb0Q6cu4UtZYoMLOCyIml"
     },
     {
       "format": "Merch",
@@ -3953,8 +3953,8 @@
       "image": "assets/vectors/julian-exe-tee.svg",
       "name": "JULIAN.EXE Tee — T-Shirt · Black",
       "featured": false,
-      "stripePaymentLink": "https://buy.stripe.com/test_7sY9AVcbtd7y7xW23J2VG2Y",
-      "stripePriceId": "price_1UMA2LQ6cu4UtZYoTn7JTT7v"
+      "stripePaymentLink": "https://buy.stripe.com/7sY9AVcbtd7y7xW23J2VG2Y",
+      "stripePriceId": "price_1UMAb1Q6cu4UtZYoEldO0zzj"
     },
     {
       "format": "Merch",
@@ -3975,8 +3975,8 @@
       "image": "assets/vectors/msbozzyb-tee.svg",
       "name": "MSBOZZYB Tee — T-Shirt · Black",
       "featured": false,
-      "stripePaymentLink": "https://buy.stripe.com/test_6oU8wR3EXc3u05u8s72VG2Z",
-      "stripePriceId": "price_1UMA2NQ6cu4UtZYodkax8aKg"
+      "stripePaymentLink": "https://buy.stripe.com/6oU8wR3EXc3u05u8s72VG2Z",
+      "stripePriceId": "price_1UMAb3Q6cu4UtZYo8Dif0g8X"
     },
     {
       "format": "Merch",
@@ -3998,8 +3998,8 @@
       "image": "assets/vectors/nova-radiant-hoodie.svg",
       "name": "RADIANT Hoodie — Hoodie · Black",
       "featured": false,
-      "stripePaymentLink": "https://buy.stripe.com/test_3cIaEZb7p6JadWk5fV2VG30",
-      "stripePriceId": "price_1UMA2PQ6cu4UtZYoxeHSTclV"
+      "stripePaymentLink": "https://buy.stripe.com/3cIaEZb7p6JadWk5fV2VG30",
+      "stripePriceId": "price_1UMAb4Q6cu4UtZYosOblJCOb"
     },
     {
       "format": "Merch",
@@ -4021,8 +4021,8 @@
       "image": "assets/vectors/nova-radiant-poster.svg",
       "name": "RADIANT Poster — Poster · 18\" × 24\"",
       "featured": false,
-      "stripePaymentLink": "https://buy.stripe.com/test_fZu6oJ6R9aZq19y5fV2VG31",
-      "stripePriceId": "price_1UMA2RQ6cu4UtZYoODZYlciR"
+      "stripePaymentLink": "https://buy.stripe.com/fZu6oJ6R9aZq19y5fV2VG31",
+      "stripePriceId": "price_1UMAb5Q6cu4UtZYoVfEOTvmW"
     },
     {
       "format": "Merch",
@@ -4044,8 +4044,8 @@
       "image": "assets/vectors/vyserion-eclipse-protocol-poster.svg",
       "name": "ECLIPSE PROTOCOL Poster — Poster · 18\" × 24\"",
       "featured": false,
-      "stripePaymentLink": "https://buy.stripe.com/test_cNifZjb7p5F63hG8s72VG32",
-      "stripePriceId": "price_1UMA2TQ6cu4UtZYonmPhecxM"
+      "stripePaymentLink": "https://buy.stripe.com/cNifZjb7p5F63hG8s72VG32",
+      "stripePriceId": "price_1UMAb7Q6cu4UtZYoHUjkixLF"
     },
     {
       "format": "Merch",
@@ -4067,8 +4067,8 @@
       "image": "assets/vectors/novadeck-star-maps-slipmat.svg",
       "name": "STAR MAPS Slipmat — 12\" Slipmat",
       "featured": false,
-      "stripePaymentLink": "https://buy.stripe.com/test_9B69AVgrJebCf0o8s72VG33",
-      "stripePriceId": "price_1UMA2VQ6cu4UtZYoKdRMbBNR"
+      "stripePaymentLink": "https://buy.stripe.com/9B69AVgrJebCf0o8s72VG33",
+      "stripePriceId": "price_1UMAb8Q6cu4UtZYo4GboFlku"
     },
     {
       "format": "Merch",
@@ -4089,8 +4089,8 @@
       "image": "assets/vectors/julian-exe-reboot-cap.svg",
       "name": "RUN. CREATE. DESTROY. REBOOT. Cap — Cap · Black / Neon",
       "featured": false,
-      "stripePaymentLink": "https://buy.stripe.com/test_eVq9AVb7p5F6dWkaAf2VG34",
-      "stripePriceId": "price_1UMA2XQ6cu4UtZYotQABXMnJ"
+      "stripePaymentLink": "https://buy.stripe.com/eVq9AVb7p5F6dWkaAf2VG34",
+      "stripePriceId": "price_1UMAb9Q6cu4UtZYoNNA8xjDz"
     },
     {
       "format": "Merch",
@@ -4111,8 +4111,8 @@
       "image": "assets/vectors/wunderland-mad-world-tote.svg",
       "name": "Welcome to My Mad World Tote — Tote Bag · Natural",
       "featured": false,
-      "stripePaymentLink": "https://buy.stripe.com/test_fZu6oJ2ATffG5pO23J2VG35",
-      "stripePriceId": "price_1UMA2ZQ6cu4UtZYo3L6ZUo8r"
+      "stripePaymentLink": "https://buy.stripe.com/fZu6oJ2ATffG5pO23J2VG35",
+      "stripePriceId": "price_1UMAbAQ6cu4UtZYoiF6qwP9v"
     },
     {
       "format": "Merch",
@@ -4133,8 +4133,8 @@
       "image": "assets/vectors/speakeasy-low-light-tote.svg",
       "name": "Low Light. Loud Truths. Tote — Tote Bag · Black",
       "featured": false,
-      "stripePaymentLink": "https://buy.stripe.com/test_28EbJ3a3lffGg4sbEj2VG36",
-      "stripePriceId": "price_1UMA2bQ6cu4UtZYoSPXGMiDq"
+      "stripePaymentLink": "https://buy.stripe.com/28EbJ3a3lffGg4sbEj2VG36",
+      "stripePriceId": "price_1UMAbCQ6cu4UtZYodj6vpo3I"
     },
     {
       "format": "Merch",
@@ -4155,8 +4155,8 @@
       "image": "assets/vectors/hiroform-form-hoodie.svg",
       "name": "Form Follows Frequency Hoodie — Hoodie · Graphite",
       "featured": false,
-      "stripePaymentLink": "https://buy.stripe.com/test_28E4gBgrJ3wYbOcfUz2VG37",
-      "stripePriceId": "price_1UMA2dQ6cu4UtZYolqxwWBmG"
+      "stripePaymentLink": "https://buy.stripe.com/28E4gBgrJ3wYbOcfUz2VG37",
+      "stripePriceId": "price_1UMAbDQ6cu4UtZYoW5LNONED"
     },
     {
       "format": "Merch",
@@ -4177,8 +4177,8 @@
       "image": "assets/vectors/v-infinite-space-poster.svg",
       "name": "One Letter. Infinite Space. Poster — Poster · 18\" × 24\"",
       "featured": false,
-      "stripePaymentLink": "https://buy.stripe.com/test_6oUcN7grJ6Ja9G4dMr2VG38",
-      "stripePriceId": "price_1UMA2fQ6cu4UtZYoMsYoUCQv"
+      "stripePaymentLink": "https://buy.stripe.com/6oUcN7grJ6Ja9G4dMr2VG38",
+      "stripePriceId": "price_1UMAbEQ6cu4UtZYonSz1KiSP"
     },
     {
       "format": "Merch",
@@ -4199,8 +4199,8 @@
       "image": "assets/vectors/msbozzyb-luxury-poster.svg",
       "name": "Luxury in Every Note Poster — Poster · 18\" × 24\"",
       "featured": false,
-      "stripePaymentLink": "https://buy.stripe.com/test_fZucN7dfxebCdWk23J2VG39",
-      "stripePriceId": "price_1UMA2hQ6cu4UtZYojHDQHvpR"
+      "stripePaymentLink": "https://buy.stripe.com/fZucN7dfxebCdWk23J2VG39",
+      "stripePriceId": "price_1UMAbGQ6cu4UtZYoz9qH7aCJ"
     }
   ]
 }

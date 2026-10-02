@@ -1,4 +1,4 @@
-/* WUNDERLAND RECORDS — shop.wunderland.gg · vanilla JS storefront. Cart is local; each item is paid separately via a Stripe test-mode Payment Link. */
+/* WUNDERLAND RECORDS — shop.wunderland.gg · vanilla JS storefront. Cart is local; each item is paid separately via a Stripe Payment Link. */
 (function(){
   const ROOT = document.body.dataset.root || "";
   const D = window.WL || {products:[],artists:[],releases:[]};
@@ -20,8 +20,7 @@
     physical(){ return this.lines().some(l=>l.p.format!=="Digital"); }
   };
   window.WLCart = Cart;
-  const SHIP_FREE = 75, SHIP = 6.00;
-  const shipping = () => !Cart.physical() ? 0 : (Cart.subtotal() >= SHIP_FREE ? 0 : SHIP);
+  const SHIP = 6.00;
 
   function toast(msg){
     let t=document.querySelector(".toast"); if(!t){t=document.createElement("div");t.className="toast";t.setAttribute("role","status");document.body.appendChild(t);}
@@ -92,7 +91,6 @@
     draw();
   }
 
-  const TEST_NOTE = "Test checkout. Use card 4242 4242 4242 4242. No real charge.";
   function buyNow(p, cls){
     if(p && p.stripePaymentLink) return `<a class="${cls}" href="${esc(p.stripePaymentLink)}">Buy now</a>`;
     return `<button class="${cls}" type="button" disabled>Unavailable</button>`;
@@ -102,7 +100,7 @@
   function renderCart(){
     const root=document.getElementById("cart-root"); const lines=Cart.lines();
     if(!lines.length){ root.innerHTML=`<div class="empty"><p class="micro">Your cart is empty</p><p>Browse vinyl, CDs, cassettes, downloads and merch.</p><a class="btn dark" href="${ROOT}shop.html">Go to the store →</a></div>`; return; }
-    const sub=Cart.subtotal(), ship=shipping();
+    const sub=Cart.subtotal();
     root.innerHTML = `<div class="cart-layout"><div><table class="cart-table"><thead><tr><th></th><th>Item</th><th>Price</th><th>Qty</th><th>Total</th></tr></thead><tbody>
       ${lines.map(({p,q})=>`<tr><td><a href="${ROOT}products/${p.id}.html"><img src="${ROOT}${p.image}" alt=""></a></td>
       <td><div class="micro muted" style="font-size:9.5px">${esc(p.artist)}</div><a href="${ROOT}products/${p.id}.html" style="text-decoration:none"><b>${esc(p.title)}</b></a><div class="muted" style="font-size:13px">${esc(p.variant)}</div>
@@ -114,9 +112,8 @@
       <p style="margin-top:18px"><button class="link-btn" id="clear-cart">Clear cart</button></p></div>
       <aside class="summary"><div class="micro muted">Cart summary</div>
       <div class="row"><span>Subtotal (${Cart.count()} items)</span><b>${money(sub)}</b></div>
-      <div class="row"><span>Shipping on Stripe ${Cart.physical()?"(physical)":"— digital only"}</span><b>${ship?money(ship):"Free"}</b></div>
-      <div class="note">Each item is paid separately on Stripe (test mode). There is no combined cart charge. Buy now checks out one copy of that item; $6 standard shipping is added on Stripe for vinyl, CD, cassette, and merch.</div>
-      <p class="muted" style="font-size:12px;margin:12px 0 0">${esc(TEST_NOTE)}</p>
+      <div class="row"><span>${Cart.physical()?"Shipping on Stripe (per physical item)":"Shipping"}</span><b>${Cart.physical()?money(SHIP):"Free"}</b></div>
+      <div class="note">Each item is paid separately on Stripe. There is no combined cart charge. Buy now checks out one copy of that item. Vinyl, CD, cassette, and merch add $6 standard shipping on Stripe. Digital items have no shipping charge.</div>
       <p style="margin:14px 0 0"><a href="${ROOT}checkout.html">Payment details →</a></p></aside></div>`;
     root.querySelectorAll("[data-rm]").forEach(b=>b.onclick=()=>Cart.qty(b.dataset.rm,0));
     root.querySelectorAll("[data-q]").forEach(b=>b.onclick=()=>Cart.qty(b.dataset.q,(Cart.get()[b.dataset.q]||0)+parseInt(b.dataset.d)));
@@ -124,14 +121,13 @@
     document.getElementById("clear-cart").onclick=()=>Cart.clear();
   }
 
-  // ---------- checkout (per-item Stripe test payment links; no combined charge)
+  // ---------- checkout (per-item Stripe payment links; no combined charge)
   function renderCheckoutSummary(){
     const root=document.getElementById("checkout-root"); if(!root) return;
     const lines=Cart.lines();
     if(!lines.length){ root.innerHTML=`<div class="empty"><p class="micro">Nothing to check out</p><a class="btn dark" href="${ROOT}shop.html">Go to the store →</a></div>`; return; }
     const sub=Cart.subtotal();
-    root.innerHTML = `<div class="note">Each item is paid separately on Stripe (test mode). There is no combined cart charge and no card details are entered on this page.</div>
-      <p class="muted" style="font-size:13px;margin:12px 0 22px">${esc(TEST_NOTE)}</p>
+    root.innerHTML = `<div class="note">Each item is paid separately on Stripe. There is no combined cart charge and no card details are entered on this page.</div>
       <div class="cart-layout"><div><table class="cart-table"><thead><tr><th></th><th>Item</th><th>Price</th><th></th></tr></thead><tbody>
       ${lines.map(({p,q})=>`<tr><td><a href="${ROOT}products/${p.id}.html"><img src="${ROOT}${p.image}" alt=""></a></td>
       <td><div class="micro muted" style="font-size:9.5px">${esc(p.artist)}</div><b>${esc(p.title)}</b><div class="muted" style="font-size:13px">${esc(p.variant)}${q>1?` · ${q} in cart`:""}</div></td>
@@ -162,11 +158,6 @@
       btn.disabled=true;
       btn.textContent="Unavailable";
     }
-    const note=document.createElement("p");
-    note.className="muted";
-    note.style.cssText="font-size:12px;margin:8px 0 0";
-    note.textContent=TEST_NOTE;
-    if(row) row.insertAdjacentElement("afterend", note);
   }
 
   // ---------- news filter
